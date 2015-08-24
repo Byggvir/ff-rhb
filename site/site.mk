@@ -1,4 +1,5 @@
 GLUON_SITE_PACKAGES := \
+gluon-mesh-batman-adv-15 \
 gluon-alfred \
 gluon-announced \
 gluon-authorized-keys \
@@ -18,13 +19,13 @@ gluon-luci-node-role \
 gluon-luci-portconfig \
 gluon-luci-private-wifi \
 gluon-luci-wifi-config \
-gluon-mesh-batman-adv-15 \
 gluon-mesh-vpn-fastd \
 gluon-neighbour-info \
 gluon-next-node \
 gluon-radvd \
 gluon-setup-mode \
 gluon-status-page \
+gluon-wan-dnsmasq \
 haveged \
 iptables \
 iwinfo
