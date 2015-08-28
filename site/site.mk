@@ -15,6 +15,7 @@ gluon-ebtables-filter-ra-dhcp \
 gluon-legacy \
 gluon-luci-admin \
 gluon-luci-autoupdater \
+gluon-luci-mesh-vpn-fastd \
 gluon-luci-node-role \
 gluon-luci-portconfig \
 gluon-luci-private-wifi \
