@@ -12,7 +12,6 @@ gluon-config-mode-hostname \
 gluon-config-mode-mesh-vpn \
 gluon-ebtables-filter-multicast \
 gluon-ebtables-filter-ra-dhcp \
-gluon-legacy \
 gluon-luci-admin \
 gluon-luci-autoupdater \
 gluon-luci-mesh-vpn-fastd \
