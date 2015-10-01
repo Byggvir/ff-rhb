@@ -34,6 +34,5 @@ DEFAULT_GLUON_RELEASE := 1.0~stable$(shell date '+%Y%m%d')
 # Allow overriding the release number from the command line
 
 GLUON_RELEASE ?= $(DEFAULT_GLUON_RELEASE)
-# GLUON_SITEDIR=site-siegburg/
 GLUON_PRIORITY ?= 0
 GLUON_LANGS ?= en de
