@@ -29,7 +29,9 @@ haveged \
 iptables \
 iwinfo
 
-DEFAULT_GLUON_RELEASE := 2015.1.2~stable-$(shell date '+%Y%m%d')
+## Alle - mir bekannten - Packete außer gluon-authorized-keys
+
+DEFAULT_GLUON_RELEASE := s-$(shell date '+%Y%m%d')
 
 # Allow overriding the release number from the command line
 GLUON_RELEASE ?= $(DEFAULT_GLUON_RELEASE)
