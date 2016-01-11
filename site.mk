@@ -2,6 +2,7 @@ GLUON_SITE_PACKAGES := \
 gluon-mesh-batman-adv-15 \
 gluon-alfred \
 gluon-announced \
+gluon-authorized-keys \
 gluon-autoupdater \
 gluon-config-mode-autoupdater \
 gluon-config-mode-contact-info \
@@ -23,7 +24,7 @@ gluon-neighbour-info \
 gluon-next-node \
 gluon-radvd \
 gluon-setup-mode \
-gluon-status-page \
+gluon-status-page-rheinbach \
 gluon-wan-dnsmasq \
 haveged \
 iptables \
