@@ -1,7 +1,6 @@
 GLUON_SITE_PACKAGES := \
 gluon-mesh-batman-adv-15 \
 gluon-alfred \
-gluon-announced \
 gluon-authorized-keys \
 gluon-autoupdater \
 gluon-config-mode-autoupdater \
@@ -23,6 +22,7 @@ gluon-mesh-vpn-fastd \
 gluon-neighbour-info \
 gluon-next-node \
 gluon-radvd \
+gluon-respondd \
 gluon-setup-mode \
 gluon-status-page \
 gluon-wan-dnsmasq \
