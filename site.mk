@@ -1,7 +1,6 @@
 GLUON_SITE_PACKAGES := \
 gluon-mesh-batman-adv-15 \
 gluon-alfred \
-gluon-authorized-keys \
 gluon-autoupdater \
 gluon-config-mode-autoupdater \
 gluon-config-mode-contact-info \
@@ -30,7 +29,7 @@ haveged \
 iptables \
 iwinfo
 
-DEFAULT_GLUON_RELEASE := e-$(shell date '+%Y%m%d')
+DEFAULT_GLUON_RELEASE := v2016.1-stable-$(shell date '+%Y%m%d')
 # Allow overriding the release number from the command line
 
 GLUON_RELEASE ?= $(DEFAULT_GLUON_RELEASE)
