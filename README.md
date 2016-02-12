@@ -1,5 +1,5 @@
 # ff-rhb
-Gluon site configuration for Rheinbach (ff-rhb) 
+Gluon v2016.1 stable site configuration for Rheinbach, NRW (ff-rhb) 
 
 This site configuration is based on the Rhein-Sieg-Kreis site configuration for Gluon.
 
