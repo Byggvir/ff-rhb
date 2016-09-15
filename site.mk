@@ -2,6 +2,7 @@ GLUON_SITE_PACKAGES := \
 gluon-mesh-batman-adv-15 \
 gluon-alfred \
 gluon-autoupdater \
+gluon-authorized-keys \
 gluon-config-mode-autoupdater \
 gluon-config-mode-contact-info \
 gluon-config-mode-core \
