@@ -31,6 +31,10 @@ iwinfo
 
 USB_PACKAGES :=  \
 kmod-usb-core \
+kmod-usb2
+
+USB_PACKAGES_FS :=  \
+kmod-usb-core \
 kmod-usb2 \
 block-mount \
 kmod-fs-ext4 \
