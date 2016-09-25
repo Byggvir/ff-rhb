@@ -1,8 +1,8 @@
 GLUON_SITE_PACKAGES := \
 gluon-mesh-batman-adv-15 \
 gluon-alfred \
+gluon-announced \
 gluon-autoupdater \
-gluon-authorized-keys \
 gluon-config-mode-autoupdater \
 gluon-config-mode-contact-info \
 gluon-config-mode-core \
@@ -22,7 +22,6 @@ gluon-mesh-vpn-fastd \
 gluon-neighbour-info \
 gluon-next-node \
 gluon-radvd \
-gluon-respondd \
 gluon-setup-mode \
 gluon-status-page \
 gluon-wan-dnsmasq \
@@ -30,9 +29,56 @@ haveged \
 iptables \
 iwinfo
 
-DEFAULT_GLUON_RELEASE := v2016.1-stable-$(shell date '+%Y%m%d')
-# Allow overriding the release number from the command line
+USB_PACKAGES :=  \
+kmod-usb-core \
+kmod-usb2 \
+block-mount \
+kmod-fs-ext4 \
+kmod-fs-vfat \
+kmod-usb-storage  \
+kmod-usb-storage-extras  \
+blkid  \
+swap-utils  \
+kmod-nls-cp1250  \
+kmod-nls-cp1251  \
+kmod-nls-cp437  \
+kmod-nls-cp775  \
+kmod-nls-cp850  \
+kmod-nls-cp852  \
+kmod-nls-cp866  \
+kmod-nls-iso8859-1  \
+kmod-nls-iso8859-13  \
+kmod-nls-iso8859-15  \
+kmod-nls-iso8859-2  \
+kmod-nls-koi8r  \
+kmod-nls-utf8 \
+kmod-usb-hid \
+kmod-usb-net \
+kmod-usb-net-asix \
+kmod-usb-net-dm9601-ether
 
+#ar71xx-generic
+GLUON_TLWR842_SITE_PACKAGES := USB_PACKAGES
+GLUON_TLWR1043_SITE_PACKAGES := USB_PACKAGES
+GLUON_TLWR2543_SITE_PACKAGES := USB_PACKAGES
+GLUON_TLWDR4300_SITE_PACKAGES := USB_PACKAGES
+GLUON_WNDR3700_SITE_PACKAGES := USB_PACKAGES
+GLUON_WRT160NL_SITE_PACKAGES := USB_PACKAGES
+GLUON_DIR825B1_SITE_PACKAGES := USB_PACKAGES
+GLUON_DIR505A1_SITE_PACKAGES := USB_PACKAGES
+GLUON_GLINET_SITE_PACKAGES := USB_PACKAGES
+GLUON_WZRHPG450H_SITE_PACKAGES := USB_PACKAGES
+GLUON_WZRHPAG300H_SITE_PACKAGES := USB_PACKAGES
+GLUON_ARCHERC7_SITE_PACKAGES := USB_PACKAGES
+
+#mpc85xx-generic
+GLUON_TLWDR4900_SITE_PACKAGES := USB_PACKAGES
+
+## Alle - mir bekannten - Packete außer gluon-authorized-keys
+
+DEFAULT_GLUON_RELEASE := s-$(shell date '+%Y%m%d')
+
+# Allow overriding the release number from the command line
 GLUON_RELEASE ?= $(DEFAULT_GLUON_RELEASE)
 GLUON_PRIORITY ?= 0
 GLUON_LANGS ?= en de
