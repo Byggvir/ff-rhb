@@ -1,9 +1,8 @@
 GLUON_SITE_PACKAGES := \
 gluon-mesh-batman-adv-15 \
 gluon-alfred \
-gluon-announced \
-gluon-authorized-keys \
 gluon-autoupdater \
+gluon-authorized-keys \
 gluon-config-mode-autoupdater \
 gluon-config-mode-contact-info \
 gluon-config-mode-core \
@@ -23,6 +22,7 @@ gluon-mesh-vpn-fastd \
 gluon-neighbour-info \
 gluon-next-node \
 gluon-radvd \
+gluon-respondd \
 gluon-setup-mode \
 gluon-status-page \
 gluon-wan-dnsmasq \
@@ -30,11 +30,9 @@ haveged \
 iptables \
 iwinfo
 
-## Alle - mir bekannten - Packete außer gluon-authorized-keys
-
-DEFAULT_GLUON_RELEASE := s-$(shell date '+%Y%m%d')
-
+DEFAULT_GLUON_RELEASE := v2016.2-stable-$(shell date '+%Y%m%d')
 # Allow overriding the release number from the command line
+
 GLUON_RELEASE ?= $(DEFAULT_GLUON_RELEASE)
 GLUON_PRIORITY ?= 0
 GLUON_LANGS ?= en de
