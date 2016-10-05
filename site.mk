@@ -3,7 +3,6 @@
 GLUON_SITE_PACKAGES := \
 gluon-mesh-batman-adv-15 \
 gluon-alfred \
-gluon-announced \
 gluon-autoupdater \
 gluon-authorized-keys \
 gluon-config-mode-autoupdater \
