@@ -1,5 +1,5 @@
 # ff-rhb
-Gluon v2016.2 stable site configuration for Rheinbach, NRW (ff-rhb), with USB support
+Gluon v2016.2 stable site configuration for Rheinbach, NRW (ff-rhb), with USB support for staorage, net, pci and umts
 
 This site configuration is based on the Rhein-Sieg-Kreis site configuration for Gluon.
 
