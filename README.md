@@ -9,4 +9,4 @@ The stable firmware boots into setup mode after installation.
 
 Contact: Thomas Arend
 E-mail: thomas - at - arend-rhb.de
-Date: 04.10.2016
+Date: 19.11.2016
