@@ -30,7 +30,7 @@ haveged \
 iptables \
 iwinfo
 
-DEFAULT_GLUON_RELEASE := v2016.2.2-stable-$(shell date '+%Y%m%d')
+DEFAULT_GLUON_RELEASE := v2016.2.3-stable-$(shell date '+%Y%m%d')
 # Allow overriding the release number from the command line
 
 GLUON_RELEASE ?= $(DEFAULT_GLUON_RELEASE)
