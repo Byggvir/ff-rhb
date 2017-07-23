@@ -212,7 +212,7 @@ GLUON_TLMR3020_SITE_PACKAGES := $(USB_PACKAGES_BASIC) $(USB_PACKAGES_MR3020) -gl
 # mpc85xx-generic
 GLUON_TLWDR4900_SITE_PACKAGES := $(USB_PACKAGES_BASIC) $(USB_PACKAGES_STORAGE) $(USB_PACKAGES_NET) $(MISC_PACKAGES)
 
-DEFAULT_GLUON_RELEASE := v2016.2.5-$(shell date '+%Y%m%d')-stable-usb
+DEFAULT_GLUON_RELEASE := v2016.2.6-$(shell date '+%Y%m%d')-stable-usb
 
 # Allow overriding the release number from the command line
 GLUON_RELEASE ?= $(DEFAULT_GLUON_RELEASE)
