@@ -1,6 +1,7 @@
 # FF-Rheinbach
 
 GLUON_SITE_PACKAGES := \
+gluon-mesh-batman-adv \
 gluon-alfred \
 gluon-authorized-keys \
 gluon-autoupdater \
@@ -18,7 +19,6 @@ gluon-ebtables-filter-ra-dhcp \
 gluon-ebtables-segment-mld \
 gluon-ebtables-source-filter \
 gluon-l3roamd \
-gluon-mesh-batman-adv \
 gluon-mesh-vpn-core \
 gluon-mesh-vpn-fastd \
 gluon-neighbour-info \
