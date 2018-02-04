@@ -1,7 +1,7 @@
 # FF-Rheinbach
 
 GLUON_SITE_PACKAGES := \
-gluon-mesh-batman-adv \
+gluon-mesh-batman-adv-15 \
 gluon-alfred \
 gluon-authorized-keys \
 gluon-autoupdater \
