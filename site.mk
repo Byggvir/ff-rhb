@@ -1,36 +1,49 @@
 # FF-Rheinbach
 
 GLUON_SITE_PACKAGES := \
-gluon-mesh-batman-adv-15 \
 gluon-alfred \
-gluon-autoupdater \
 gluon-authorized-keys \
+gluon-autoupdater \
+gluon-client-bridge \
 gluon-config-mode-autoupdater \
 gluon-config-mode-contact-info \
 gluon-config-mode-core \
 gluon-config-mode-geo-location \
 gluon-config-mode-hostname \
 gluon-config-mode-mesh-vpn \
+gluon-core \
+gluon-ebtables \
 gluon-ebtables-filter-multicast \
 gluon-ebtables-filter-ra-dhcp \
+gluon-ebtables-segment-mld \
 gluon-ebtables-source-filter \
-gluon-web-admin \
-gluon-web-autoupdater \
-gluon-web-mesh-vpn-fastd \
-gluon-web-node-role \
-gluon-web-network \
-gluon-web-private-wifi \
-gluon-web-wifi-config \
+gluon-l3roamd \
+gluon-mesh-batman-adv \
+gluon-mesh-vpn-core \
 gluon-mesh-vpn-fastd \
 gluon-neighbour-info \
 gluon-radvd \
+gluon-respondd \
 gluon-setup-mode \
+gluon-site \
 gluon-status-page \
+gluon-status-page-api \
 gluon-wan-dnsmasq \
+gluon-web \
+gluon-web-admin \
+gluon-web-autoupdater \
+gluon-web-mesh-vpn-fastd \
+gluon-web-network \
+gluon-web-node-role \
+gluon-web-private-wifi \
+gluon-web-theme \
+gluon-web-wifi-config \
 haveged \
 iptables \
 iwinfo \
 
+## Für Tunneldigger vpn
+## gluon-mesh-vpn-tunneldigger \
 
 # basic support for USB stack
 USB_PACKAGES_BASIC := \
