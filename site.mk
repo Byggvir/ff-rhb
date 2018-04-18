@@ -20,6 +20,7 @@ gluon-ebtables-segment-mld \
 gluon-ebtables-source-filter \
 gluon-mesh-vpn-core \
 gluon-mesh-vpn-fastd \
+gluon-mesh-vpn-tunneldigger \
 gluon-neighbour-info \
 gluon-radvd \
 gluon-respondd \
@@ -27,11 +28,13 @@ gluon-setup-mode \
 gluon-site \
 gluon-status-page \
 gluon-status-page-api \
+gluon-tunneldigger-watchdog \
 gluon-wan-dnsmasq \
 gluon-web \
 gluon-web-admin \
 gluon-web-autoupdater \
 gluon-web-mesh-vpn-fastd \
+gluon-web-mesh-vpn-tunneldigger \
 gluon-web-network \
 gluon-web-node-role \
 gluon-web-private-wifi \
@@ -42,7 +45,6 @@ iptables \
 iwinfo \
 
 ## Für Tunneldigger vpn
-## gluon-mesh-vpn-tunneldigger \
 
 # basic support for USB stack
 USB_PACKAGES_BASIC := \
@@ -231,7 +233,7 @@ GLUON_tp-link-tl-mr3020-v1_SITE_PACKAGES := $(USB_PACKAGES_BASIC) $(USB_PACKAGES
 # mpc85xx-generic
 GLUON_tp-link-tl-wdr4900-v1_SITE_PACKAGES := $(USB_PACKAGES_BASIC) $(USB_PACKAGES_STORAGE) $(USB_PACKAGES_NET) $(MISC_PACKAGES)
 
-DEFAULT_GLUON_RELEASE := v2017.1.4-$(shell date '+%Y%m%d')-stable-usb
+DEFAULT_GLUON_RELEASE := v2017.1.6-$(shell date '+%Y%m%d')-stable-usb
 
 # Allow overriding the release number from the command line
 GLUON_RELEASE ?= $(DEFAULT_GLUON_RELEASE)
