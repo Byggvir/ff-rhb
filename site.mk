@@ -28,13 +28,11 @@ gluon-setup-mode \
 gluon-site \
 gluon-status-page \
 gluon-status-page-api \
-gluon-tunneldigger-watchdog \
 gluon-wan-dnsmasq \
 gluon-web \
 gluon-web-admin \
 gluon-web-autoupdater \
 gluon-web-mesh-vpn-fastd \
-gluon-web-mesh-vpn-tunneldigger \
 gluon-web-network \
 gluon-web-node-role \
 gluon-web-private-wifi \

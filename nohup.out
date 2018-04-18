@@ -1,0 +1,1279 @@
+Connecting to deprecated signal QDBusConnectionInterface::serviceOwnerChanged(QString,QString,QString)
+QDBusConnection: session D-Bus connection created before QCoreApplication. Application may misbehave.
+QDBusConnection: session D-Bus connection created before QCoreApplication. Application may misbehave.
+kbuildsycoca4 running...
+kbuildsycoca4(28156) KBuildSycoca::checkTimestamps: checking file timestamps
+kbuildsycoca4(28156) KBuildSycoca::checkDirTimestamps: timestamp changed: "/usr/share/mime/"
+kbuildsycoca4(28156) kdemain: Reusing existing ksycoca
+kbuildsycoca4(28156) KBuildSycoca::recreate: Recreating ksycoca file ("/var/tmp/kdecache-thomas/ksycoca4", version 243)
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/x-desktop.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "image/jpeg.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "image/bmp.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: new: "packages/docutils.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/vnd.sun.xml.calc.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/x-kugar.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/vnd.oasis.opendocument.text-master-template.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/x-dar.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/x-tgif.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/x-tuberling.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/xhtml+xml.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/x-cda.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/vnd.ms-powerpoint.slide.macroenabled.12.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/x-gdbm.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/x-cabri.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/x-magicpoint.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/x-kspread-crypt.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/x-php.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/pkix-cert.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/x-5view.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/x-dbf.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/vnd.sun.xml.base.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/x-virtualbox-ovf.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/vnd.scribus.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/vnd.ms-visio.template.main+xml.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/x-vnd.akonadi.calendar.freebusy.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/x-snoop.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/x-java.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/x-troff-man-compressed.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/vnd.palm.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/x-virtualbox-vhd.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/x-x509-ca-cert.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/vnd.ms-powerpoint.template.macroenabled.12.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/x-ufraw.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/x-par2.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/vnd.kde.okular-archive.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/vnd.oasis.opendocument.chart.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/x-iwork-keynote-sffkey.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/x-tar.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/x-it87.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/x-zip-compressed-fb2.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/oxps.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/vnd.stardivision.mail.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/vnd.oasis.opendocument.text-web.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/x-mps.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/x-vnd.kde.notes.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/x-radcom.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/x-mobipocket-ebook.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/x-k3b.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/vnd.ms-word.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/x-font-otf.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/x-sega-cd-rom.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/x-ipod-firmware.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/x-wii-rom.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/vnd.oasis.opendocument.spreadsheet-template.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/x-kgeo.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/x-kexiproject-shortcut.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/x-dia-shape.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/json-patch+json.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/x-kword-crypt.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/x-ptoptimizer-script.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/x-ksysguard.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/x-smb-workgroup.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/x-krita.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/x-iptrace.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/x-xz.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/vnd.debian.binary-package.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/x-endace-erf.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/xml.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/msword-template.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/x-kwordquiz.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/x-pagemaker.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/x-lanalyzer.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/zip.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/x-netinstobserver.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/x-xz-compressed-tar.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/x-amiga-disk-format.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/vnd.openxmlformats-officedocument.wordprocessingml.template.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/x-superkaramba.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/x-compress.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/x-virtualbox-ova.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/rss+xml.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/x-java-keystore.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/x-gtktalog.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/vnd.oasis.opendocument.spreadsheet-flat-xml.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/x-alz.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/vnd.iccprofile.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/vnd.snap.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/vnd.sun.xml.writer.global.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/x-ixia-vwr.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/illustrator.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/x-font-snf.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/vnd.rn-realmedia.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/x-msi.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/x-python-bytecode.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/x-java-applet.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/x-mozilla-bookmarks.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/x-micropross-mplog.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/vnd.kde.bluedevil-sendfile.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/x-osm+xml.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/vnd.ms-visio.drawing.macroenabled.main+xml.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/x-sqlite2.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/xspf+xml.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/x-netcdf.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/x-sqlite3.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/vnd.sun.xml.writer.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/x-object.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/vnd.stardivision.draw.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/mbox.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/vnd.stardivision.calc.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/x-lzpdf.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/x-vnd.kde.kplato.work.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/x-tex-gf.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/vnd.sun.xml.impress.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/x-nintendo-ds-rom.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/vnd.lotus-1-2-3.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/x-nes-rom.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/x-toutdoux.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/x-gedcom.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/x-doom-wad.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/x-font-dos.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/zlib.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/pkcs7-mime.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/vnd.oasis.opendocument.spreadsheet.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/vnd.oasis.opendocument.graphics.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/x-oleo.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/x-sv4crc.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/x-kmplot.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/vnd.sun.xml.math.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/oda.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/x-msx-rom.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/x-egon.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/x-kcachegrind.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/x-raw-disk-image.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/x-gpx+xml.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/vnd.ms-access.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/x-kontour.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/x-fictionbook+xml.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/vnd.adobe.flash.movie.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/x-cpio.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/vnd.oasis.opendocument.text-master.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/gpx+xml.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/x-matroska.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/x-aftershotpro.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/vnd.sun.xml.calc.template.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/x-vnd.kde.plan.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/vnd.ms-visio.stencil.main+xml.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/vnd.kde.kphotoalbum-import.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/winhlp.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/x-sharedlib.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/pkcs7-signature.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/x-docbook+xml.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/x-vnd.akonadi.calendar.todo.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/atom+xml.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/x-lz4.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/x-kommander.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/vnd.openxmlformats-officedocument.presentationml.slideshow.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/x-virtualbox-vdi.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/x-smb-server.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/x-tektronix-rf5.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/x-vnd.kde.alarm.archived.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/x-troff-man.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/x-khtml-adaptor.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/ecmascript.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/x-font-type1.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/x-gameboy-rom.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/x-gnumeric.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/vnd.oasis.opendocument.text-flat-xml.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/x-macbinary.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/pdf.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/x-executable.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/x-lyx.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/vnd.comicbook+zip.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/xsd.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/vnd.openxmlformats-officedocument.wordprocessingml.document.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/x-blender.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/vnd.wordperfect.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/raml+yaml.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/x-xar.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/x-trash.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/x-arc.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/x-ruby.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/x-gzdvi.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/ogg.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/pgp-keys.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/x-xbel.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/x-arj.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/metalink4+xml.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/x-vnd.kde.contactgroup.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/x-vnd.kde.kplato.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/ram.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/x-hdf.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/x-slp.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/vnd.oasis.opendocument.text-template.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/annodex.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/vnd.openxmlformats-officedocument.presentationml.slide.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/vnd.ms-wpl.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/x-zerosize.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/x-pc-engine-rom.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/metalink+xml.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/vnd.coffeescript.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/x-java-pack200.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/x-xliff.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/x-qtiplot.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/x-bzpostscript.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/x-hfe-floppy-image.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/x-ole-storage.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/x-perl.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/x-asp.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/vnd.oasis.opendocument.database.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/x-windows-themepack.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/vnd.chess-pgn.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/vnd.tcpdump.pcap.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/x-profile.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/x-ica.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/x-plasma.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/vnd.ms-excel.template.macroenabled.12.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/x-icq.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/vnd.flatpak.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/x-ms-shortcut.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/x-kspread.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/vnd.lotus-wordpro.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/x-kpresenter.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/gzip.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/x-turtle.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/x-rpm.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/x-java-archive.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/x-go-sgf.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/vnd.mozilla.xul+xml.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/x-kpovmodeler.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/x-theme.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/vnd.hp-hpgl.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/x-font-ttf.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/vnd.ms-powerpoint.presentation.macroenabled.12.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/x-applix-word.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/x-atari-7800-rom.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/x-vnd.kde.plan.work.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/vnd.stardivision.math.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/vnd.nintendo.snes.rom.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/x-esri-shape-index.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/x-kvtml.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/x-dia-diagram.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/x-font-ttx.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/x-bsdiff.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/x-sms-rom.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/x-pocket-word.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/x-lrzip.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/vnd.ms-excel.sheet.binary.macroenabled.12.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/postscript.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/msword.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/x-kword.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/x-nzb.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/x-lzma-compressed-tar.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/x-vnd.akonadi.calendar.journal.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/x-vnd.kde.alarm.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/vnd.ms-cab-compressed.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/mac-binhex40.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/x-core.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/vnd.ms-excel.sheet.macroenabled.12.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/vnd.squashfs.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/x-ms-dos-executable.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/rdf+xml.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/x-gnucash.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/x-font-linux-psf.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/x-iff.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/x-compressed-tar.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/vnd.visio.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/owl+xml.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/pkcs8.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/x-tex-pk.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/x-raw-disk-image-xz-compressed.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/x-quanta.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/vnd.ms-powerpoint.slideshow.macroenabled.12.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/vnd.google-earth.kml+xml.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/x-awk.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/x-csh.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/vnd.apple.mpegurl.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/x-jbuilder-project.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/vnd.sun.xml.impress.template.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/vnd.corel-draw.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/x-accountwizard-package.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/x-genesis-rom.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/sdp.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/x-font-tex-tfm.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/x-iso9660-appimage.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/vnd.rar.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/x-subrip.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/x-bcpio.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/x-shorten.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/relax-ng-compact-syntax.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/x-ccmx.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/x-quattropro.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/vnd.ms-powerpoint.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/x-applix-spreadsheet.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/x-sami.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/x-xzpdf.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/vnd.ms-htmlhelp.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/gml+xml.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/x-partial-download.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/javascript.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/epub+zip.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/x-gzpdf.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/x-gtk-builder.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/vnd.ms-powerpoint.addin.macroenabled.12.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/x-cisco-vpn-settings.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/pkix-pkipath.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/x-kexi-connectiondata.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/vnd.ms-tnef.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/x-sv4cpio.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/x-cue.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/x-kgetlist.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/x-n64-rom.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/x-kudesigner.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/x-vnd.kde.alarm.template.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/x-thomson-cartridge-memo7.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/x-webarchive.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/x-cpio-compressed.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/x-cd-image.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/x-ms-wim.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/x-killustrator.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/x-designer.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/x-gamegear-rom.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/vnd.oasis.opendocument.presentation.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/x-qpress.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/vnd.openxmlformats-officedocument.presentationml.presentation.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/x-vnd.akonadi.collection.virtual.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/x-atari-2600-rom.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/x-etherpeek.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/x-karbon.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/vnd.ms-publisher.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/x-font-pcf.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/geo+json.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/vnd.ms-word.template.macroenabled.12.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/vnd.hp-pcl.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/x-kopete-emoticons.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/x-visualnetworks.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/x-markaby.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/x-font-framemaker.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/x-pkcs7-certificates.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/x-shar.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/x-java-jce-keystore.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/gnunet-directory.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/vnd.ms-visio.stencil.macroenabled.main+xml.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/x-vnd.akonadi.calendar.event.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/x-wais-source.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/x-shared-library-la.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/vnd.oasis.opendocument.presentation-template.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/x-sega-pico-rom.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/x-riff.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/vnd.stardivision.impress.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/x-pef-executable.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/x-aportisdoc.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/x-gzpostscript.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/font-woff.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/x-gnuplot.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/x-dvi.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/x-amipro.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/dicom.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/x-apple-packetlogger.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/x-lrzip-compressed-tar.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/x-siag.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/x-nautilus-link.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/x-bzdvi.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/x-spss-sav.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/vnd.kde.fontspackage.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/x-lzip.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/x-quicktime-media-link.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/x-font-sunos-news.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/vnd.oasis.opendocument.presentation-flat-xml.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/xml-dtd.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/vnd.flatpak.ref.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/x-kwallet.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/x-archive.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/x-m4.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/x-e-theme.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/x-font-bdf.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/smil+xml.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/x-saturn-rom.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/x-font-afm.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/x-source-rpm.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/x-bzip.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/json.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/vnd.symbian.install.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/vnd.ms-works.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/x-kchart.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/ipfix.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/x-lz4-compressed-tar.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/x-yaml.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/vnd.android.package-archive.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/x-ipynb+json.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/x-mimearchive.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/x-font-speedo.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/x-wpg.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/mathematica.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/x-trig.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/x-lha.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/x-neo-geo-pocket-rom.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/x-fluid.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/vnd.framemaker.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/pkcs12.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/pkcs10.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/x-ustar.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/x-java-jnlp-file.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/mxf.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/vnd.oasis.opendocument.formula-template.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/x-lzip-compressed-tar.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/vnd.openxmlformats-officedocument.spreadsheetml.template.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/x-mswinurl.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/jrd+json.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/x-kcsrc.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/x-lhz.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/vnd.ms-word.document.macroenabled.12.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/x-kexiproject-sqlite2.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/x-kexiproject-sqlite3.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/vnd.oasis.opendocument.formula.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/vnd.stardivision.writer.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/x-ksysv-package.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/x-glade.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/x-uml.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/xslt+xml.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/x-gba-rom.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/vnd.ms-excel.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/x-pak.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/x-vnd.kde.alarm.active.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/x-kourse.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/x-esri-shape.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/vnd.ms-visio.drawing.main+xml.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/x-thomson-sap-image.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/x-pcapng.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/x-ktheme.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/x-7z-compressed.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/vnd.ms-visio.template.macroenabled.main+xml.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/x-sg1000-rom.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/vnd.openofficeorg.extension.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/x-lzma.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/x-kformula.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/relaxng.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/vnd.sun.xml.draw.template.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/x-drgeo.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/x-cdrdao-toc.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/x-bzip-compressed-tar.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/x-kig.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/vnd.emusic-emusic_package.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/vnd.oasis.opendocument.text.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/octet-stream.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/x-vnd.akonadi.note.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/pgp-encrypted.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/x-mif.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/vnd.ms-excel.addin.macroenabled.12.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/x-t602.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/x-planperfect.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/vnd.oasis.opendocument.image.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/x-kolf.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/x-font-libgrx.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/x-ace.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/x-apple-diskimage.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/vnd.openxmlformats-officedocument.presentationml.template.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/x-virtualbox-vbox-extpack.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/vnd.google-earth.kmz.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/x-tzo.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/x-pw.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/x-kivio.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/x-bittorrent.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/x-font-vfont.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/prs.plucker.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/x-kns.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/x-nettl.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/x-gameboy-color-rom.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/x-lzop.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/x-virtualbox-vbox.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/ld+json.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/xml-external-parsed-entity.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/x-kseg.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/x-qw.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/x-virtualbox-vmdk.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/x-bzpdf.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/x-dc-rom.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/x-cb7.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/pgp-signature.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/x-mswrite.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/x-class-file.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/vnd.oasis.opendocument.graphics-template.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/vnd.stardivision.chart.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/x-gettext-translation.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/mathml+xml.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/x-tarz.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/x-graphite.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/x-zoo.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/x-navi-animation.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/x-shellscript.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/x-netshow-channel.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/sql.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/x-vnd.kde.kugar.mixed.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/x-spss-por.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/x-sc.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/x-smaf.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/vnd.sun.xml.writer.template.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/x-thomson-cassette.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/pkix-crl.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/andrew-inset.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/rtf.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/sieve.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/vnd.flatpak.repo.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/x-genesis-32x-rom.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/x-wwf.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/x-cbr.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/x-gamecube-rom.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/x-cbt.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/x-abiword.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/x-wii-wad.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/x-stuffit.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/vnd.oasis.opendocument.graphics-flat-xml.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/vnd.oasis.opendocument.chart-template.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/x-hwp.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/x-font-tex.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/x-hwt.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/vnd.ms-asf.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/vnd.sun.xml.draw.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/x-gz-font-linux-psf.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/x-virtualbox-hdd.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "application/x-xpinstall.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "message/disposition-notification.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "message/rfc822.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "message/news.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "message/x-gnu-rmail.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "message/external-body.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "message/delivery-status.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "message/partial.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "text/x-mrml.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "text/xmcd.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "text/vcard.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "text/x-imelody.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "text/x-log.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "text/tab-separated-values.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "text/x-chdr.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "text/x-copying.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "text/csv-schema.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "text/x-moc.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "text/x-mof.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "text/x-fortran.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "text/x-gettext-translation-template.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "text/x-dcl.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "text/x-xslfo.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "text/x-install.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "text/x-tcl.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "text/x-google-video-pointer.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "text/x-lua.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "text/vnd.graphviz.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "text/x-csrc.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "text/calendar.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "text/x-ooc.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "text/x-sass.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "text/x-microdvd.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "text/vnd.sun.j2me.app-descriptor.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "text/x-authors.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "text/x-tex.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "text/x-matlab.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "text/x-cmake.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "text/x-reject.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "text/vnd.rn-realtext.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "text/x-literate-haskell.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "text/x-mup.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "text/x-opml+xml.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "text/x-qml.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "text/x-changelog.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "text/x-uuencode.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "text/x-meson.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "text/turtle.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "text/plain.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "text/css.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "text/csv.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "text/markdown.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "text/x-scss.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "text/x-ms-regedit.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "text/x-setext.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "text/x-katefilelist.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "text/x-gettext-translation.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "text/x-gherkin.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "text/x-dsrc.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "text/x-verilog.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "text/spreadsheet.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "text/x-uil.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "text/troff.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "text/x-hex.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "text/x-idl.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "text/x-kdevelop.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "text/x-python.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "text/x-modelica.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "text/x-troff-me.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "text/x-objchdr.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "text/x-troff-mm.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "text/x-emacs-lisp.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "text/x-java.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "text/x-texinfo.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "text/x-troff-ms.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "text/rfc822-headers.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "text/x-vnd.akonadi.socialfeeditem.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "text/x-c++hdr.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: new: "text/x-rst.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "text/x-twig.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "text/htmlh.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "text/x-scheme.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "text/x-vala.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "text/vnd.abc.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "text/x-genie.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "text/x-ssa.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "text/x-bibtex.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "text/x-dsl.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "text/html.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "text/x-credits.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "text/vtt.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "text/x-adasrc.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "text/x-mpsub.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "text/x-objcsrc.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "text/x-ocaml.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "text/x-ldif.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "text/x-c++src.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "text/x-readme.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "text/x-rpm-spec.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "text/vnd.wap.wmlscript.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "text/x-erlang.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "text/x-xmi.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "text/x-svhdr.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "text/x-uri.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "text/x-scala.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "text/x-patch.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "text/x-vhdl.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "text/x-iptables.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "text/x-scons.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "text/x-kdevelop-internal.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "text/x-makefile.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "text/x-eiffel.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "text/x-pascal.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "text/x-ocl.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "text/vnd.trolltech.linguist.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "text/x-vnd.akonadi.note.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "text/x-csharp.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "text/x-cobol.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "text/cache-manifest.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "text/x-nfo.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "text/x-go.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "text/rust.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "text/x-haskell.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "text/x-txt2tags.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "text/richtext.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "text/vnd.wap.wml.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "text/x-lilypond.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "text/x-svsrc.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "text/x-subviewer.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "text/sgml.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "text/enriched.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "inode/vnd.kde.service.postgresql.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "inode/vnd.kde.device.printer.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "inode/vnd.kde.service.telnet.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "inode/vnd.kde.service.dacp.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "inode/vnd.kde.service.ksirk.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "inode/vnd.kde.service.rdp.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "inode/vnd.kde.service.ggz.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "inode/vnd.kde.service.upnp.lightingcontrols1.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "inode/vnd.kde.service.home-sharing.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "inode/vnd.kde.service.upnp.basicdevice1.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "inode/vnd.kde.service.upnp.mediarenderer1.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "inode/symlink.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "inode/vnd.kde.service.upnp.landevice1.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "inode/vnd.kde.service.upnp.internetgatewaydevice1.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "inode/vnd.kde.service.couchdb_location.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "inode/directory.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "inode/vnd.kde.service.udisks-ssh.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "inode/vnd.kde.service.lskat.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "inode/vnd.kde.service.upnp.wanconnectiondevice1.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "inode/vnd.kde.service.upnp.wfadevice1.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "inode/vnd.kde.service.acrobat-server.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "inode/vnd.kde.service.odisk.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "inode/fifo.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "inode/vnd.kde.service.upnp.mediaserver2.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "inode/vnd.kde.service.pulse-server.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "inode/vnd.kde.service.upnp.unknown.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "inode/vnd.kde.device.unknown.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "inode/vnd.kde.service.upnp.mediaserver1.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "inode/vnd.kde.service.plasma.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "inode/vnd.kde.service.svn.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "inode/vnd.kde.service.presence.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "inode/vnd.kde.service.upnp.radiscoveryagent1.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "inode/vnd.kde.service.ssh.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "inode/vnd.kde.service.adobe-vc.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "inode/vnd.kde.service.upnp.scanner1.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "inode/vnd.kde.service.upnp.raclient1.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "inode/vnd.kde.service.upnp.printerbasic1.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "inode/vnd.kde.service.ftp.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "inode/vnd.kde.service.kfourinline.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "inode/vnd.kde.service.upnp.remoteuiclientdevice1.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "inode/vnd.kde.service.pdl-datastream.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "inode/vnd.kde.service.kbattleship.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "inode/vnd.kde.service.eppc.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "inode/vnd.kde.service.ipp.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "inode/vnd.kde.service.giver.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "inode/vnd.kde.service.nfs.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "inode/vnd.kde.service.upnp.solarprotectionblind1.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "inode/vnd.kde.device.scanner.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "inode/vnd.kde.bluedevil.service.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "inode/vnd.kde.service.libvirt.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "inode/vnd.kde.device.workstation.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "inode/vnd.kde.network.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "inode/vnd.kde.service.imap.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "inode/vnd.kde.service.webdav.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "inode/vnd.kde.service.sftp-ssh.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "inode/vnd.kde.service.pop3.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "inode/vnd.kde.service.printer.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "inode/vnd.kde.service.appletv-itunes.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "inode/vnd.kde.service.http.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "inode/vnd.kde.service.ldap.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "inode/vnd.kde.service.upnp.hvac1.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "inode/vnd.kde.device.server.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "inode/vnd.kde.service.rsync.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "inode/vnd.kde.service.realplayfavs.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "inode/vnd.kde.service.skype.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "inode/vnd.kde.service.upnp.raserver1.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "inode/vnd.kde.service.xmpp-server.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "inode/vnd.kde.service.sleep-proxy.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "inode/vnd.kde.service.rfb.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "inode/vnd.kde.service.airmouse.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "inode/blockdevice.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "inode/chardevice.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "inode/vnd.kde.device.router.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "inode/vnd.kde.service.daap.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "inode/vnd.kde.service.maemo-inf.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "inode/vnd.kde.service.upnp.printerenhanced1.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "inode/vnd.kde.bluedevil.device.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "inode/vnd.kde.service.upnp.digitalsecuritycamera1.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "inode/socket.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "inode/vnd.kde.service.lobby.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "inode/vnd.kde.service.net-assistant.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "inode/vnd.kde.service.sip.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "inode/vnd.kde.service.airport.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "inode/vnd.kde.service.webdavs.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "inode/vnd.kde.service.touch-able.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "inode/vnd.kde.service.unknown.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "inode/vnd.kde.service.ntp.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "inode/vnd.kde.service.upnp.remoteuiserverdevice1.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "inode/vnd.kde.service.upnp.wandevice1.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "inode/mount-point.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "inode/vnd.kde.service.ftps.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "inode/vnd.kde.service.pulse-sink.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "inode/vnd.kde.service.upnp.mediaserver3.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "inode/vnd.kde.service.workstation.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "inode/vnd.kde.service.nssocketport.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "inode/vnd.kde.service.upnp.wlanaccesspointdevice1.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "inode/vnd.kde.service.h323.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "inode/vnd.kde.service.afpovertcp.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "inode/vnd.kde.service.upnp.mediarenderer2.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "inode/vnd.kde.service.appletv-pair.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "inode/vnd.kde.service.raop.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "inode/vnd.kde.service.pulse-source.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "inode/vnd.kde.service.smb.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "x-epoc/x-sisx-app.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "multipart/related.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "multipart/alternative.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "multipart/mixed.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "multipart/appledouble.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "multipart/report.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "multipart/encrypted.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "multipart/signed.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "multipart/x-mixed-replace.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "multipart/digest.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "image/x-adobe-dng.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "image/x-niff.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "image/svg+xml.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "image/webp.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "image/x-win-bitmap.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "image/x-jng.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "image/x-exr.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "image/png.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "image/x-sigma-x3f.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "image/x-3ds.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "image/x-quicktime.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "image/x-gzeps.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "image/x-ilbm.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "image/vnd.zbrush.pcx.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "image/rle.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "image/x-kodak-k25.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "image/x-panasonic-raw.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "image/vnd.dwg.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "image/vnd.djvu.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "image/vnd.dxf.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "image/x-cmu-raster.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "image/x-canon-cr2.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "image/x-fuji-raf.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "image/emf.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "image/gif.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "image/x-pentax-pef.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "image/x-compressed-xcf.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "image/ief.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "image/x-pict.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "image/x-dcraw.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "image/x-kodak-dcr.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "image/x-pic.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "image/x-dds.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "image/x-canon-crw.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "image/dpx.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "image/x-rgb.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "image/x-skencil.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "image/fax-g3.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "image/vnd.rn-realpix.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "image/x-portable-graymap.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "image/x-sgi.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "image/x-bzeps.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "image/x-lwo.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "image/x-dib.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "image/x-tga.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "image/x-lws.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "image/x-panasonic-raw2.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "image/wmf.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "image/fits.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "image/x-tiff-multipage.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "image/g3fax.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "image/x-kde-raw.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "image/x-hdr.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "image/x-minolta-mrw.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "image/x-xcf.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "image/x-xbitmap.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "image/x-sony-arw.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "image/x-sun-raster.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "image/jp2.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "image/openraster.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "image/x-photo-cd.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "image/x-nikon-nef.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "image/x-portable-bitmap.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "image/x-portable-pixmap.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "image/x-applix-graphics.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "image/x-msod.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "image/x-sony-sr2.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "image/x-xpixmap.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "image/vnd.wap.wbmp.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "image/x-xwindowdump.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "image/x-eps.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "image/vnd.microsoft.icon.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "image/x-kodak-kdc.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "image/tiff.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "image/x-sony-srf.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "image/x-macpaint.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "image/vnd.ms-modi.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "image/x-fpx.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "image/x-xfig.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "image/x-icns.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "image/svg+xml-compressed.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "image/x-portable-anymap.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "image/x-xcursor.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "image/vnd.adobe.photoshop.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "image/x-olympus-orf.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "image/vnd.djvu+multipage.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "image/cgm.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "audio/x-pn-realaudio-plugin.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "audio/x-minipsf.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "audio/basic.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "audio/x-xi.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "audio/x-xm.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "audio/amr-wb.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "audio/x-flac+ogg.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "audio/x-scpls.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "audio/x-mo3.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "audio/x-mod.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "audio/aac.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "audio/ac3.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "audio/midi.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "audio/x-m4b.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "audio/ogg.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "audio/x-mpegurl.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "audio/amr.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "audio/x-wav.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "audio/x-ape.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "audio/mp2.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "audio/mp4.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "audio/x-opus+ogg.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "audio/x-vorbis+ogg.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "audio/x-wavpack-correction.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "audio/x-adpcm.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "audio/x-iriver-pla.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "audio/prs.sid.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "audio/x-psf.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "audio/x-ms-asx.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "audio/x-psflib.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "audio/x-amzxml.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "audio/x-aifc.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "audio/x-aiff.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "audio/x-it.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "audio/x-s3m.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "audio/x-speex+ogg.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "audio/vnd.dts.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "audio/mpeg.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "audio/x-matroska.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "audio/x-speex.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "audio/x-stm.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "audio/x-ms-wma.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "audio/x-voc.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "audio/x-tta.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "audio/x-musepack.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "audio/x-wavpack.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "audio/vnd.rn-realaudio.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "audio/annodex.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "audio/x-xmf.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "audio/webm.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "audio/x-gsm.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "audio/flac.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "audio/x-riff.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "audio/vnd.dts.hd.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "x-content/blank-dvd.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "x-content/blank-hddvd.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "x-content/video-svcd.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "x-content/video-hddvd.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "x-content/ebook-reader.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "x-content/software.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "x-content/video-vcd.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "x-content/blank-cd.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "x-content/blank-bd.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "x-content/win32-software.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "x-content/audio-cdda.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "x-content/image-dcf.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "x-content/image-picturecd.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "x-content/video-bluray.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "x-content/video-dvd.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "x-content/unix-software.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "x-content/audio-player.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "x-content/audio-dvd.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "video/wavelet.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "video/x-ms-wmv.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "video/x-ms-wmp.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "video/3gpp.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "video/mp2t.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "video/vnd.rn-realvideo.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "video/x-sgi-movie.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "video/quicktime.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "video/x-msvideo.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "video/ogg.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "video/vnd.vivo.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "video/x-mng.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "video/mp4.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "video/dv.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "video/x-ogm+ogg.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "video/vnd.mpegurl.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "video/x-flic.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "video/3gpp2.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "video/x-nsv.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "video/annodex.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "video/x-matroska-3d.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "video/x-anim.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "video/x-theora+ogg.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "video/isivideo.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "video/mpeg.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "video/x-flv.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "video/x-matroska.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "video/x-javafx.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "video/webm.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "model/iges.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "model/vrml.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "all/allfiles.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::createEntry: modified: "all/all.xml" in xdgdata-mime
+kbuildsycoca4(28156) KBuildSycoca::build: Still in the time dict (i.e. deleted files) ("apps")
+kbuildsycoca4(28156) VFolderMenu::mergeFile: VFolderMenu::mergeFile: "/home/thomas/.config/menus/applications-merged/wine-Programme-Flash Favorite-Flash Favorite.menu"
+kbuildsycoca4(28156) VFolderMenu::mergeFile: VFolderMenu::mergeFile: "/home/thomas/.config/menus/applications-merged/wine-Programme-Flash Favorite-Flash Favorite on the Web.menu"
+kbuildsycoca4(28156) VFolderMenu::mergeFile: VFolderMenu::mergeFile: "/home/thomas/.config/menus/applications-merged/wine-Programme-Flash Favorite-Uninstall Flash Favorite.menu"
+kbuildsycoca4(28156) VFolderMenu::mergeFile: VFolderMenu::mergeFile: "/home/thomas/.config/menus/applications-merged/wine-Programs-BESTDesignSoftware.menu"
+kbuildsycoca4(28156) VFolderMenu::mergeFile: VFolderMenu::mergeFile: "/home/thomas/.config/menus/applications-merged/xdg-desktop-menu-dummy.menu"
+kbuildsycoca4(28156) VFolderMenu::loadDoc: Parse error in  "/home/thomas/.config/menus/applications-merged/xdg-desktop-menu-dummy.menu" , line  1 , col  1 :  "unexpected end of file" 
+kbuildsycoca4(28156) VFolderMenu::mergeFile: VFolderMenu::mergeFile: "/home/thomas/.config/menus/applications-merged/wine-Programme-HTC Sync-HTC Sync.menu"
+kbuildsycoca4(28156) VFolderMenu::mergeFile: VFolderMenu::mergeFile: "/home/thomas/.config/menus/applications-merged/user-75F44F2F-A162-908E-7932-651BA44B8F67-moneyplex.menu"
+kbuildsycoca4(28156) VFolderMenu::mergeFile: VFolderMenu::mergeFile: "/home/thomas/.config/menus/applications-merged/wine-Programme-ipernity-Uploader-Uninstall ipernity Uploader.menu"
+kbuildsycoca4(28156) VFolderMenu::mergeFile: VFolderMenu::mergeFile: "/home/thomas/.config/menus/applications-merged/wine-Programme-ipernity-Uploader-ipernity Uploader.menu"
+kbuildsycoca4(28156) VFolderMenu::mergeFile: VFolderMenu::mergeFile: "/home/thomas/.config/menus/applications-merged/wine-Programme-HTC-HTC Driver-Uninstall HTC Driver.menu"
+kbuildsycoca4(28156) VFolderMenu::mergeFile: VFolderMenu::mergeFile: "/home/thomas/.config/menus/applications-merged/wine-Programme-HTC Sync-HTC Sync deinstallieren.menu"
+kbuildsycoca4(28156) VFolderMenu::mergeFile: VFolderMenu::mergeFile: "/home/thomas/.config/menus/applications-merged/wine-ExpressFiles-Uninstall.menu"
+kbuildsycoca4(28156) VFolderMenu::mergeFile: VFolderMenu::mergeFile: "/home/thomas/.config/menus/applications-merged/wine-ExpressFiles-ExpressFiles.menu"
+kbuildsycoca4(28156) VFolderMenu::pushDocInfo: Menu "debian-menu.menu" not found.
+kbuildsycoca4(28156) VFolderMenu::pushDocInfo: Menu "applications-kmenuedit.menu" not found.
+kbuildsycoca4(28156) VFolderMenu::processMenu: Processing KDE Legacy dirs for <KDE>
+kbuildsycoca4(28156) VFolderMenu::processKDELegacyDirs:
+kbuildsycoca4(28156) VFolderMenu::loadApplications: Looking up applications under "/usr/share/applications/"
+kbuildsycoca4(28156) VFolderMenu::loadApplications: Looking up applications under "/usr/share/applications/kde4"
+kbuildsycoca4(28156) KBuildSycoca::createEntry: new: "/usr/share/applications/me.mitya57.ReText.desktop" in apps
+kbuildsycoca4(28156) VFolderMenu::loadApplications: Looking up applications under "/home/thomas/.local/share/applications/"
+kbuildsycoca4(28156) KBuildServiceFactory::populateServiceTypes: "/usr/share/applications/display-im6.q16.desktop" specifies undefined mimetype/servicetype "image/avs"
+kbuildsycoca4(28156) KBuildServiceFactory::populateServiceTypes: "/usr/share/applications/display-im6.q16.desktop" specifies undefined mimetype/servicetype "image/bie"
+kbuildsycoca4(28156) KBuildServiceFactory::populateServiceTypes: "/usr/share/applications/display-im6.q16.desktop" specifies undefined mimetype/servicetype "image/x-ms-bmp"
+kbuildsycoca4(28156) KBuildServiceFactory::populateServiceTypes: "/usr/share/applications/display-im6.q16.desktop" specifies undefined mimetype/servicetype "image/cmyk"
+kbuildsycoca4(28156) KBuildServiceFactory::populateServiceTypes: "/usr/share/applications/display-im6.q16.desktop" specifies undefined mimetype/servicetype "image/dcx"
+kbuildsycoca4(28156) KBuildServiceFactory::populateServiceTypes: "/usr/share/applications/display-im6.q16.desktop" specifies undefined mimetype/servicetype "image/eps"
+kbuildsycoca4(28156) KBuildServiceFactory::populateServiceTypes: "/usr/share/applications/display-im6.q16.desktop" specifies undefined mimetype/servicetype "image/fax"
+kbuildsycoca4(28156) KMimeTypeRepository::parents: "/usr/share/mime/subclasses"  refers to unknown mimetype  "application/vnd.ms-visio.template.macroEnabled.main+xml"
+kbuildsycoca4(28156) KMimeTypeRepository::parents: "/usr/share/mime/subclasses"  refers to unknown mimetype  "application/vnd.ms-excel.sheet.binary.macroEnabled.12"
+kbuildsycoca4(28156) KMimeTypeRepository::parents: "/usr/share/mime/subclasses"  refers to unknown mimetype  "application/vnd.ms-excel.addin.macroEnabled.12"
+kbuildsycoca4(28156) KMimeTypeRepository::parents: "/usr/share/mime/subclasses"  refers to unknown mimetype  "application/vnd.ms-visio.drawing.macroEnabled.main+xml"
+kbuildsycoca4(28156) KMimeTypeRepository::parents: "/usr/share/mime/subclasses"  refers to unknown mimetype  "application/vnd.ms-powerpoint.slideshow.macroEnabled.12"
+kbuildsycoca4(28156) KMimeTypeRepository::parents: "/usr/share/mime/subclasses"  refers to unknown mimetype  "application/x-AfterShotPro"
+kbuildsycoca4(28156) KMimeTypeRepository::parents: "/usr/share/mime/subclasses"  refers to unknown mimetype  "application/x-AfterShotPro"
+kbuildsycoca4(28156) KMimeTypeRepository::parents: "/usr/share/mime/subclasses"  refers to unknown mimetype  "application/x-AfterShotPro"
+kbuildsycoca4(28156) KMimeTypeRepository::parents: "/usr/share/mime/subclasses"  refers to unknown mimetype  "application/vnd.ms-visio.stencil.macroEnabled.main+xml"
+kbuildsycoca4(28156) KMimeTypeRepository::parents: "/usr/share/mime/subclasses"  refers to unknown mimetype  "application/vnd.ms-excel.sheet.macroEnabled.12"
+kbuildsycoca4(28156) KMimeTypeRepository::parents: "/usr/share/mime/subclasses"  refers to unknown mimetype  "application/vnd.ms-powerpoint.presentation.macroEnabled.12"
+kbuildsycoca4(28156) KMimeTypeRepository::parents: "/usr/share/mime/subclasses"  refers to unknown mimetype  "application/vnd.ms-word.template.macroEnabled.12"
+kbuildsycoca4(28156) KMimeTypeRepository::parents: "/usr/share/mime/subclasses"  refers to unknown mimetype  "application/vnd.ms-excel.template.macroEnabled.12"
+kbuildsycoca4(28156) KMimeTypeRepository::parents: "/usr/share/mime/subclasses"  refers to unknown mimetype  "application/vnd.ms-powerpoint.template.macroEnabled.12"
+kbuildsycoca4(28156) KMimeTypeRepository::parents: "/usr/share/mime/subclasses"  refers to unknown mimetype  "application/vnd.ms-word.document.macroEnabled.12"
+kbuildsycoca4(28156) KMimeTypeRepository::parents: "/usr/share/mime/subclasses"  refers to unknown mimetype  "application/vnd.ms-powerpoint.slide.macroEnabled.12"
+kbuildsycoca4(28156) KBuildServiceFactory::populateServiceTypes: "/usr/share/applications/display-im6.q16.desktop" specifies undefined mimetype/servicetype "image/gray"
+kbuildsycoca4(28156) KBuildServiceFactory::populateServiceTypes: "/usr/share/applications/display-im6.q16.desktop" specifies undefined mimetype/servicetype "image/miff"
+kbuildsycoca4(28156) KBuildServiceFactory::populateServiceTypes: "/usr/share/applications/display-im6.q16.desktop" specifies undefined mimetype/servicetype "image/mono"
+kbuildsycoca4(28156) KBuildServiceFactory::populateServiceTypes: "/usr/share/applications/display-im6.q16.desktop" specifies undefined mimetype/servicetype "image/mtv"
+kbuildsycoca4(28156) KBuildServiceFactory::populateServiceTypes: "/usr/share/applications/display-im6.q16.desktop" specifies undefined mimetype/servicetype "image/pcd"
+kbuildsycoca4(28156) KBuildServiceFactory::populateServiceTypes: "/usr/share/applications/display-im6.q16.desktop" specifies undefined mimetype/servicetype "image/pcx"
+kbuildsycoca4(28156) KBuildServiceFactory::populateServiceTypes: "/usr/share/applications/display-im6.q16.desktop" specifies undefined mimetype/servicetype "image/pict"
+kbuildsycoca4(28156) KBuildServiceFactory::populateServiceTypes: "/usr/share/applications/display-im6.q16.desktop" specifies undefined mimetype/servicetype "image/ps"
+kbuildsycoca4(28156) KBuildServiceFactory::populateServiceTypes: "/usr/share/applications/display-im6.q16.desktop" specifies undefined mimetype/servicetype "image/rad"
+kbuildsycoca4(28156) KBuildServiceFactory::populateServiceTypes: "/usr/share/applications/display-im6.q16.desktop" specifies undefined mimetype/servicetype "image/rgba"
+kbuildsycoca4(28156) KBuildServiceFactory::populateServiceTypes: "/usr/share/applications/display-im6.q16.desktop" specifies undefined mimetype/servicetype "image/rla"
+kbuildsycoca4(28156) KBuildServiceFactory::populateServiceTypes: "/usr/share/applications/display-im6.q16.desktop" specifies undefined mimetype/servicetype "image/sgi"
+kbuildsycoca4(28156) KBuildServiceFactory::populateServiceTypes: "/usr/share/applications/display-im6.q16.desktop" specifies undefined mimetype/servicetype "image/sun-raster"
+kbuildsycoca4(28156) KBuildServiceFactory::populateServiceTypes: "/usr/share/applications/display-im6.q16.desktop" specifies undefined mimetype/servicetype "image/targa"
+kbuildsycoca4(28156) KBuildServiceFactory::populateServiceTypes: "/usr/share/applications/display-im6.q16.desktop" specifies undefined mimetype/servicetype "image/uyvy"
+kbuildsycoca4(28156) KBuildServiceFactory::populateServiceTypes: "/usr/share/applications/display-im6.q16.desktop" specifies undefined mimetype/servicetype "image/vid"
+kbuildsycoca4(28156) KBuildServiceFactory::populateServiceTypes: "/usr/share/applications/display-im6.q16.desktop" specifies undefined mimetype/servicetype "image/viff"
+kbuildsycoca4(28156) KBuildServiceFactory::populateServiceTypes: "/usr/share/applications/display-im6.q16.desktop" specifies undefined mimetype/servicetype "image/yuv"
+kbuildsycoca4(28156) KBuildServiceFactory::populateServiceTypes: "plasma-kpart.desktop" specifies undefined mimetype/servicetype "KParts/Part"
+kbuildsycoca4(28156) KBuildServiceFactory::populateServiceTypes: "/usr/share/applications/org.kde.kmail.desktop" specifies undefined mimetype/servicetype "DBUS/Mailer"
+kbuildsycoca4(28156) KBuildServiceFactory::populateServiceTypes: "/usr/share/applications/org.kde.kontact.desktop" specifies undefined mimetype/servicetype "DBUS/Mailer"
+kbuildsycoca4(28156) KBuildServiceFactory::populateServiceTypes: "/usr/share/applications/libreoffice-calc.desktop" specifies undefined mimetype/servicetype "application/vnd.ms-excel.sheet.macroEnabled.12"
+kbuildsycoca4(28156) KBuildServiceFactory::populateServiceTypes: "/usr/share/applications/libreoffice-calc.desktop" specifies undefined mimetype/servicetype "application/vnd.ms-excel.template.macroEnabled.12"
+kbuildsycoca4(28156) KBuildServiceFactory::populateServiceTypes: "/usr/share/applications/libreoffice-calc.desktop" specifies undefined mimetype/servicetype "application/vnd.ms-excel.sheet.binary.macroEnabled.12"
+kbuildsycoca4(28156) KBuildServiceFactory::populateServiceTypes: "/usr/share/applications/libreoffice-calc.desktop" specifies undefined mimetype/servicetype "application/csv"
+kbuildsycoca4(28156) KBuildServiceFactory::populateServiceTypes: "/usr/share/applications/libreoffice-calc.desktop" specifies undefined mimetype/servicetype "application/excel"
+kbuildsycoca4(28156) KBuildServiceFactory::populateServiceTypes: "/usr/share/applications/libreoffice-calc.desktop" specifies undefined mimetype/servicetype "application/tab-separated-values"
+kbuildsycoca4(28156) KBuildServiceFactory::populateServiceTypes: "/usr/share/applications/libreoffice-calc.desktop" specifies undefined mimetype/servicetype "application/x-dos_ms_excel"
+kbuildsycoca4(28156) KBuildServiceFactory::populateServiceTypes: "/usr/share/applications/libreoffice-calc.desktop" specifies undefined mimetype/servicetype "application/x-excel"
+kbuildsycoca4(28156) KBuildServiceFactory::populateServiceTypes: "/usr/share/applications/libreoffice-calc.desktop" specifies undefined mimetype/servicetype "application/x-ms-excel"
+kbuildsycoca4(28156) KBuildServiceFactory::populateServiceTypes: "/usr/share/applications/libreoffice-calc.desktop" specifies undefined mimetype/servicetype "text/comma-separated-values"
+kbuildsycoca4(28156) KBuildServiceFactory::populateServiceTypes: "/usr/share/applications/libreoffice-calc.desktop" specifies undefined mimetype/servicetype "application/clarisworks"
+kbuildsycoca4(28156) KBuildServiceFactory::populateServiceTypes: "/usr/share/applications/libreoffice-calc.desktop" specifies undefined mimetype/servicetype "application/x-iwork-numbers-sffnumbers"
+kbuildsycoca4(28156) KBuildServiceFactory::populateServiceTypes: "/usr/share/applications/libreoffice-calc.desktop" specifies undefined mimetype/servicetype "application/x-starcalc"
+kbuildsycoca4(28156) KBuildServiceFactory::populateServiceTypes: "ServiceMenus/imageconverter.desktop" specifies undefined mimetype/servicetype "image/*"
+kbuildsycoca4(28156) KBuildServiceFactory::populateServiceTypes: "/usr/share/applications/smplayer.desktop" specifies undefined mimetype/servicetype "audio/opus"
+kbuildsycoca4(28156) KBuildServiceFactory::populateServiceTypes: "/usr/share/applications/smplayer.desktop" specifies undefined mimetype/servicetype "application/x-flac"
+kbuildsycoca4(28156) KBuildServiceFactory::populateServiceTypes: "/usr/share/applications/smplayer.desktop" specifies undefined mimetype/servicetype "audio/x-ms-asf"
+kbuildsycoca4(28156) KBuildServiceFactory::populateServiceTypes: "/usr/share/applications/smplayer.desktop" specifies undefined mimetype/servicetype "audio/x-ms-wax"
+kbuildsycoca4(28156) KBuildServiceFactory::populateServiceTypes: "/usr/share/applications/smplayer.desktop" specifies undefined mimetype/servicetype "video/x-ms-asx"
+kbuildsycoca4(28156) KBuildServiceFactory::populateServiceTypes: "/usr/share/applications/smplayer.desktop" specifies undefined mimetype/servicetype "audio/x-pn-windows-acm"
+kbuildsycoca4(28156) KBuildServiceFactory::populateServiceTypes: "/usr/share/applications/smplayer.desktop" specifies undefined mimetype/servicetype "audio/x-real-audio"
+kbuildsycoca4(28156) KBuildServiceFactory::populateServiceTypes: "/usr/share/applications/smplayer.desktop" specifies undefined mimetype/servicetype "audio/x-realaudio"
+kbuildsycoca4(28156) KBuildServiceFactory::populateServiceTypes: "/usr/share/applications/smplayer.desktop" specifies undefined mimetype/servicetype "audio/mpg"
+kbuildsycoca4(28156) KBuildServiceFactory::populateServiceTypes: "/usr/share/applications/smplayer.desktop" specifies undefined mimetype/servicetype "audio/mp1"
+kbuildsycoca4(28156) KBuildServiceFactory::populateServiceTypes: "/usr/share/applications/smplayer.desktop" specifies undefined mimetype/servicetype "audio/x-mp1"
+kbuildsycoca4(28156) KBuildServiceFactory::populateServiceTypes: "/usr/share/applications/smplayer.desktop" specifies undefined mimetype/servicetype "application/mpeg4-iod"
+kbuildsycoca4(28156) KBuildServiceFactory::populateServiceTypes: "/usr/share/applications/smplayer.desktop" specifies undefined mimetype/servicetype "application/mpeg4-muxcodetable"
+kbuildsycoca4(28156) KBuildServiceFactory::populateServiceTypes: "/usr/share/applications/smplayer.desktop" specifies undefined mimetype/servicetype "application/x-extension-m4a"
+kbuildsycoca4(28156) KBuildServiceFactory::populateServiceTypes: "/usr/share/applications/smplayer.desktop" specifies undefined mimetype/servicetype "application/x-extension-mp4"
+kbuildsycoca4(28156) KBuildServiceFactory::populateServiceTypes: "/usr/share/applications/smplayer.desktop" specifies undefined mimetype/servicetype "audio/AMR"
+kbuildsycoca4(28156) KBuildServiceFactory::populateServiceTypes: "/usr/share/applications/smplayer.desktop" specifies undefined mimetype/servicetype "audio/AMR-WB"
+kbuildsycoca4(28156) KBuildServiceFactory::populateServiceTypes: "/usr/share/applications/smplayer.desktop" specifies undefined mimetype/servicetype "audio/dv"
+kbuildsycoca4(28156) KBuildServiceFactory::populateServiceTypes: "/usr/share/applications/smplayer.desktop" specifies undefined mimetype/servicetype "audio/x-pn-aiff"
+kbuildsycoca4(28156) KBuildServiceFactory::populateServiceTypes: "/usr/share/applications/smplayer.desktop" specifies undefined mimetype/servicetype "video/x-flc"
+kbuildsycoca4(28156) KBuildServiceFactory::populateServiceTypes: "/usr/share/applications/smplayer.desktop" specifies undefined mimetype/servicetype "audio/x-pn-au"
+kbuildsycoca4(28156) KBuildServiceFactory::populateServiceTypes: "/usr/share/applications/smplayer.desktop" specifies undefined mimetype/servicetype "audio/x-pn-wav"
+kbuildsycoca4(28156) KBuildServiceFactory::populateServiceTypes: "/usr/share/applications/smplayer.desktop" specifies undefined mimetype/servicetype "audio/eac3"
+kbuildsycoca4(28156) KBuildServiceFactory::populateServiceTypes: "/usr/share/applications/smplayer.desktop" specifies undefined mimetype/servicetype "audio/vnd.dolby.heaac.1"
+kbuildsycoca4(28156) KBuildServiceFactory::populateServiceTypes: "/usr/share/applications/smplayer.desktop" specifies undefined mimetype/servicetype "audio/vnd.dolby.heaac.2"
+kbuildsycoca4(28156) KBuildServiceFactory::populateServiceTypes: "/usr/share/applications/smplayer.desktop" specifies undefined mimetype/servicetype "audio/vnd.dolby.mlp"
+kbuildsycoca4(28156) KBuildServiceFactory::populateServiceTypes: "/usr/share/applications/smplayer.desktop" specifies undefined mimetype/servicetype "misc/ultravox"
+kbuildsycoca4(28156) KBuildServiceFactory::populateServiceTypes: "/usr/share/applications/gimp.desktop" specifies undefined mimetype/servicetype "image/x-gimp-gbr"
+kbuildsycoca4(28156) KBuildServiceFactory::populateServiceTypes: "/usr/share/applications/gimp.desktop" specifies undefined mimetype/servicetype "image/x-gimp-pat"
+kbuildsycoca4(28156) KBuildServiceFactory::populateServiceTypes: "/usr/share/applications/gimp.desktop" specifies undefined mimetype/servicetype "image/x-gimp-gih"
+kbuildsycoca4(28156) KBuildServiceFactory::populateServiceTypes: "/usr/share/applications/gimp.desktop" specifies undefined mimetype/servicetype "image/x-psp"
+kbuildsycoca4(28156) KBuildServiceFactory::populateServiceTypes: "/usr/share/applications/org.kde.kdevelop_ps.desktop" specifies undefined mimetype/servicetype "application/x-kdevelop"
+kbuildsycoca4(28156) KBuildServiceFactory::populateServiceTypes: "/usr/share/applications/software-properties-kde.desktop" specifies undefined mimetype/servicetype "text/x-apt-sources-list"
+kbuildsycoca4(28156) KBuildServiceFactory::populateServiceTypes: "/usr/share/applications/gv.desktop" specifies undefined mimetype/servicetype "application/ps"
+kbuildsycoca4(28156) KBuildServiceFactory::populateServiceTypes: "ServiceMenus/amarok_append.desktop" specifies undefined mimetype/servicetype "audio/*"
+kbuildsycoca4(28156) KBuildServiceFactory::populateServiceTypes: "/usr/share/applications/kde4/amarok.desktop" specifies undefined mimetype/servicetype "application/x-ogm-audio"
+kbuildsycoca4(28156) KBuildServiceFactory::populateServiceTypes: "/usr/share/applications/inkscape.desktop" specifies undefined mimetype/servicetype "application/x-xccx"
+kbuildsycoca4(28156) KBuildServiceFactory::populateServiceTypes: "/usr/share/applications/inkscape.desktop" specifies undefined mimetype/servicetype "application/x-xcgm"
+kbuildsycoca4(28156) KBuildServiceFactory::populateServiceTypes: "/usr/share/applications/inkscape.desktop" specifies undefined mimetype/servicetype "application/x-xcdt"
+kbuildsycoca4(28156) KBuildServiceFactory::populateServiceTypes: "/usr/share/applications/inkscape.desktop" specifies undefined mimetype/servicetype "application/x-xsk1"
+kbuildsycoca4(28156) KBuildServiceFactory::populateServiceTypes: "/usr/share/applications/inkscape.desktop" specifies undefined mimetype/servicetype "application/x-xcmx"
+kbuildsycoca4(28156) KBuildServiceFactory::populateServiceTypes: "/usr/share/applications/inkscape.desktop" specifies undefined mimetype/servicetype "image/x-xcdr"
+kbuildsycoca4(28156) KBuildServiceFactory::populateServiceTypes: "/usr/share/applications/inkscape.desktop" specifies undefined mimetype/servicetype "application/visio"
+kbuildsycoca4(28156) KBuildServiceFactory::populateServiceTypes: "/usr/share/applications/inkscape.desktop" specifies undefined mimetype/servicetype "application/x-visio"
+kbuildsycoca4(28156) KBuildServiceFactory::populateServiceTypes: "/usr/share/applications/inkscape.desktop" specifies undefined mimetype/servicetype "application/visio.drawing"
+kbuildsycoca4(28156) KBuildServiceFactory::populateServiceTypes: "/usr/share/applications/inkscape.desktop" specifies undefined mimetype/servicetype "application/vsd"
+kbuildsycoca4(28156) KBuildServiceFactory::populateServiceTypes: "/usr/share/applications/inkscape.desktop" specifies undefined mimetype/servicetype "application/x-vsd"
+kbuildsycoca4(28156) KBuildServiceFactory::populateServiceTypes: "/usr/share/applications/inkscape.desktop" specifies undefined mimetype/servicetype "image/x-vsd"
+kbuildsycoca4(28156) KBuildServiceFactory::populateServiceTypes: "/usr/share/applications/kde4/kopete.desktop" specifies undefined mimetype/servicetype "DBUS/InstantMessenger"
+kbuildsycoca4(28156) KBuildServiceFactory::populateServiceTypes: "/var/lib/xine/gxine.desktop" specifies undefined mimetype/servicetype "video/mp2p"
+kbuildsycoca4(28156) KBuildServiceFactory::populateServiceTypes: "/var/lib/xine/gxine.desktop" specifies undefined mimetype/servicetype "audio/aiff"
+kbuildsycoca4(28156) KBuildServiceFactory::populateServiceTypes: "/var/lib/xine/gxine.desktop" specifies undefined mimetype/servicetype "audio/x-pn-aiff"
+kbuildsycoca4(28156) KBuildServiceFactory::populateServiceTypes: "/var/lib/xine/gxine.desktop" specifies undefined mimetype/servicetype "audio/x-realaudio"
+kbuildsycoca4(28156) KBuildServiceFactory::populateServiceTypes: "/var/lib/xine/gxine.desktop" specifies undefined mimetype/servicetype "audio/x-basic"
+kbuildsycoca4(28156) KBuildServiceFactory::populateServiceTypes: "/var/lib/xine/gxine.desktop" specifies undefined mimetype/servicetype "audio/x-pn-au"
+kbuildsycoca4(28156) KBuildServiceFactory::populateServiceTypes: "/var/lib/xine/gxine.desktop" specifies undefined mimetype/servicetype "audio/x-8svx"
+kbuildsycoca4(28156) KBuildServiceFactory::populateServiceTypes: "/var/lib/xine/gxine.desktop" specifies undefined mimetype/servicetype "audio/8svx"
+kbuildsycoca4(28156) KBuildServiceFactory::populateServiceTypes: "/var/lib/xine/gxine.desktop" specifies undefined mimetype/servicetype "audio/x-16sv"
+kbuildsycoca4(28156) KBuildServiceFactory::populateServiceTypes: "/var/lib/xine/gxine.desktop" specifies undefined mimetype/servicetype "audio/168sv"
+kbuildsycoca4(28156) KBuildServiceFactory::populateServiceTypes: "/var/lib/xine/gxine.desktop" specifies undefined mimetype/servicetype "image/ilbm"
+kbuildsycoca4(28156) KBuildServiceFactory::populateServiceTypes: "/var/lib/xine/gxine.desktop" specifies undefined mimetype/servicetype "video/anim"
+kbuildsycoca4(28156) KBuildServiceFactory::populateServiceTypes: "/var/lib/xine/gxine.desktop" specifies undefined mimetype/servicetype "video/mkv"
+kbuildsycoca4(28156) KBuildServiceFactory::populateServiceTypes: "/var/lib/xine/gxine.desktop" specifies undefined mimetype/servicetype "image/x-png"
+kbuildsycoca4(28156) KBuildServiceFactory::populateServiceTypes: "/var/lib/xine/gxine.desktop" specifies undefined mimetype/servicetype "video/mng"
+kbuildsycoca4(28156) KBuildServiceFactory::populateServiceTypes: "/var/lib/xine/gxine.desktop" specifies undefined mimetype/servicetype "audio/mod"
+kbuildsycoca4(28156) KBuildServiceFactory::populateServiceTypes: "/var/lib/xine/gxine.desktop" specifies undefined mimetype/servicetype "audio/it"
+kbuildsycoca4(28156) KBuildServiceFactory::populateServiceTypes: "/var/lib/xine/gxine.desktop" specifies undefined mimetype/servicetype "audio/s3m"
+kbuildsycoca4(28156) KBuildServiceFactory::populateServiceTypes: "/var/lib/xine/gxine.desktop" specifies undefined mimetype/servicetype "application/playerpro"
+kbuildsycoca4(28156) KBuildServiceFactory::populateServiceTypes: "/var/lib/xine/gxine.desktop" specifies undefined mimetype/servicetype "application/adrift"
+kbuildsycoca4(28156) KBuildServiceFactory::populateServiceTypes: "/var/lib/xine/gxine.desktop" specifies undefined mimetype/servicetype "audio/med"
+kbuildsycoca4(28156) KBuildServiceFactory::populateServiceTypes: "/var/lib/xine/gxine.desktop" specifies undefined mimetype/servicetype "audio/x-amf"
+kbuildsycoca4(28156) KBuildServiceFactory::populateServiceTypes: "/var/lib/xine/gxine.desktop" specifies undefined mimetype/servicetype "audio/xm"
+kbuildsycoca4(28156) KBuildServiceFactory::populateServiceTypes: "/var/lib/xine/gxine.desktop" specifies undefined mimetype/servicetype "audio/x-ms-wax"
+kbuildsycoca4(28156) KBuildServiceFactory::populateServiceTypes: "/var/lib/xine/gxine.desktop" specifies undefined mimetype/servicetype "audio/x-ms-wvx"
+kbuildsycoca4(28156) KBuildServiceFactory::populateServiceTypes: "/var/lib/xine/gxine.desktop" specifies undefined mimetype/servicetype "video/x-quicktime"
+kbuildsycoca4(28156) KBuildServiceFactory::populateServiceTypes: "/var/lib/xine/gxine.desktop" specifies undefined mimetype/servicetype "audio/x-real-audio"
+kbuildsycoca4(28156) KBuildServiceFactory::populateServiceTypes: "/var/lib/xine/gxine.desktop" specifies undefined mimetype/servicetype "application/x-ogm"
+kbuildsycoca4(28156) KBuildServiceFactory::populateServiceTypes: "/var/lib/xine/gxine.desktop" specifies undefined mimetype/servicetype "application/x-ogm-audio"
+kbuildsycoca4(28156) KBuildServiceFactory::populateServiceTypes: "/var/lib/xine/gxine.desktop" specifies undefined mimetype/servicetype "application/x-ogm-video"
+kbuildsycoca4(28156) KBuildServiceFactory::populateServiceTypes: "/var/lib/xine/gxine.desktop" specifies undefined mimetype/servicetype "audio/x-pn-wav"
+kbuildsycoca4(28156) KBuildServiceFactory::populateServiceTypes: "/var/lib/xine/gxine.desktop" specifies undefined mimetype/servicetype "audio/x-pn-windows-acm"
+kbuildsycoca4(28156) KBuildServiceFactory::populateServiceTypes: "/var/lib/xine/gxine.desktop" specifies undefined mimetype/servicetype "audio/musepack"
+kbuildsycoca4(28156) KBuildServiceFactory::populateServiceTypes: "/var/lib/xine/gxine.desktop" specifies undefined mimetype/servicetype "audio/mpeg2"
+kbuildsycoca4(28156) KBuildServiceFactory::populateServiceTypes: "/var/lib/xine/gxine.desktop" specifies undefined mimetype/servicetype "audio/x-mpeg2"
+kbuildsycoca4(28156) KBuildServiceFactory::populateServiceTypes: "/var/lib/xine/gxine.desktop" specifies undefined mimetype/servicetype "audio/mpeg3"
+kbuildsycoca4(28156) KBuildServiceFactory::populateServiceTypes: "/var/lib/xine/gxine.desktop" specifies undefined mimetype/servicetype "audio/x-mpeg3"
+kbuildsycoca4(28156) KBuildServiceFactory::populateServiceTypes: "/var/lib/xine/gxine.desktop" specifies undefined mimetype/servicetype "application/x-flac"
+kbuildsycoca4(28156) KBuildServiceFactory::populateServiceTypes: "/var/lib/xine/gxine.desktop" specifies undefined mimetype/servicetype "application/flac"
+kbuildsycoca4(28156) KBuildServiceFactory::populateServiceTypes: "/usr/share/applications/kde4/amzdownloader.desktop" specifies undefined mimetype/servicetype "audio/x-amzaudio"
+kbuildsycoca4(28156) KBuildServiceFactory::populateServiceTypes: "/usr/share/applications/org.kde.kdevelop.desktop" specifies undefined mimetype/servicetype "application/x-kdevelop"
+kbuildsycoca4(28156) KBuildServiceFactory::populateServiceTypes: "/usr/share/applications/lrfviewer.desktop" specifies undefined mimetype/servicetype "application/x-sony-bbeb"
+kbuildsycoca4(28156) KBuildServiceFactory::populateServiceTypes: "/usr/share/applications/mplayer.desktop" specifies undefined mimetype/servicetype "application/x-mpegurl"
+kbuildsycoca4(28156) KBuildServiceFactory::populateServiceTypes: "/usr/share/applications/mplayer.desktop" specifies undefined mimetype/servicetype "audio/AMR"
+kbuildsycoca4(28156) KBuildServiceFactory::populateServiceTypes: "/usr/share/applications/mplayer.desktop" specifies undefined mimetype/servicetype "audio/AMR-WB"
+kbuildsycoca4(28156) KBuildServiceFactory::populateServiceTypes: "/usr/share/applications/libreoffice-draw.desktop" specifies undefined mimetype/servicetype "image/x-freehand"
+kbuildsycoca4(28156) KBuildServiceFactory::populateServiceTypes: "/usr/share/applications/libreoffice-draw.desktop" specifies undefined mimetype/servicetype "application/clarisworks"
+kbuildsycoca4(28156) KBuildServiceFactory::populateServiceTypes: "/usr/share/applications/libreoffice-draw.desktop" specifies undefined mimetype/servicetype "application/x-stardraw"
+kbuildsycoca4(28156) KBuildServiceFactory::populateServiceTypes: "/usr/share/applications/org.kde.gwenview.desktop" specifies undefined mimetype/servicetype "image/x-webp"
+kbuildsycoca4(28156) KBuildServiceFactory::populateServiceTypes: "/usr/share/applications/kde4/kmplayer.desktop" specifies undefined mimetype/servicetype "application/x-kmplayer"
+kbuildsycoca4(28156) KBuildServiceFactory::populateServiceTypes: "ServiceMenus/k3b_create_audio_cd.desktop" specifies undefined mimetype/servicetype "audio/*"
+kbuildsycoca4(28156) KBuildServiceFactory::populateServiceTypes: "/usr/share/applications/kde4/k3b.desktop" specifies undefined mimetype/servicetype "application/x-iso"
+kbuildsycoca4(28156) KBuildServiceFactory::populateServiceTypes: "/usr/share/applications/gvim.desktop" specifies undefined mimetype/servicetype "text/english"
+kbuildsycoca4(28156) KBuildServiceFactory::populateServiceTypes: "/usr/share/applications/gvim.desktop" specifies undefined mimetype/servicetype "text/x-c++"
+kbuildsycoca4(28156) KBuildServiceFactory::populateServiceTypes: "/usr/share/applications/libreoffice-writer.desktop" specifies undefined mimetype/servicetype "application/x-doc"
+kbuildsycoca4(28156) KBuildServiceFactory::populateServiceTypes: "/usr/share/applications/libreoffice-writer.desktop" specifies undefined mimetype/servicetype "application/vnd.ms-word.document.macroEnabled.12"
+kbuildsycoca4(28156) KBuildServiceFactory::populateServiceTypes: "/usr/share/applications/libreoffice-writer.desktop" specifies undefined mimetype/servicetype "application/vnd.ms-word.template.macroEnabled.12"
+kbuildsycoca4(28156) KBuildServiceFactory::populateServiceTypes: "/usr/share/applications/libreoffice-writer.desktop" specifies undefined mimetype/servicetype "application/x-extension-txt"
+kbuildsycoca4(28156) KBuildServiceFactory::populateServiceTypes: "/usr/share/applications/libreoffice-writer.desktop" specifies undefined mimetype/servicetype "application/macwriteii"
+kbuildsycoca4(28156) KBuildServiceFactory::populateServiceTypes: "/usr/share/applications/libreoffice-writer.desktop" specifies undefined mimetype/servicetype "application/clarisworks"
+kbuildsycoca4(28156) KBuildServiceFactory::populateServiceTypes: "/usr/share/applications/libreoffice-writer.desktop" specifies undefined mimetype/servicetype "application/x-sony-bbeb"
+kbuildsycoca4(28156) KBuildServiceFactory::populateServiceTypes: "/usr/share/applications/libreoffice-writer.desktop" specifies undefined mimetype/servicetype "application/x-iwork-pages-sffpages"
+kbuildsycoca4(28156) KBuildServiceFactory::populateServiceTypes: "/usr/share/applications/libreoffice-writer.desktop" specifies undefined mimetype/servicetype "application/x-starwriter"
+kbuildsycoca4(28156) KBuildServiceFactory::populateServiceTypes: "amarok_collection-playdarcollection.desktop" specifies undefined mimetype/servicetype "Amarok/Plugin-disabled"
+kbuildsycoca4(28156) KBuildServiceFactory::populateServiceTypes: "/usr/share/applications/AfterShot3X64.desktop" specifies undefined mimetype/servicetype "image/x-nrw"
+kbuildsycoca4(28156) KBuildServiceFactory::populateServiceTypes: "/usr/share/applications/AfterShot3X64.desktop" specifies undefined mimetype/servicetype "image/x-raw"
+kbuildsycoca4(28156) KBuildServiceFactory::populateServiceTypes: "/usr/share/applications/AfterShot3X64.desktop" specifies undefined mimetype/servicetype "image/x-panasonic-rw2"
+kbuildsycoca4(28156) KBuildServiceFactory::populateServiceTypes: "/usr/share/applications/AfterShot3X64.desktop" specifies undefined mimetype/servicetype "image/x-rwl"
+kbuildsycoca4(28156) KBuildServiceFactory::populateServiceTypes: "/usr/share/applications/AfterShot3X64.desktop" specifies undefined mimetype/servicetype "image/x-samsung-srw"
+kbuildsycoca4(28156) KBuildServiceFactory::populateServiceTypes: "/usr/share/applications/AfterShot3X64.desktop" specifies undefined mimetype/servicetype "application/x-AfterShotPro"
+kbuildsycoca4(28156) KBuildServiceFactory::populateServiceTypes: "kmplayer_part.desktop" specifies undefined mimetype/servicetype "application/x-kmplayer"
+kbuildsycoca4(28156) KBuildServiceFactory::populateServiceTypes: "ServiceMenus/k3b_write_iso_image.desktop" specifies undefined mimetype/servicetype "application/x-iso"
+kbuildsycoca4(28156) KBuildServiceFactory::populateServiceTypes: "ServiceMenus/k3b_write_iso_image.desktop" specifies undefined mimetype/servicetype "inode/ISO-image"
+kbuildsycoca4(28156) KBuildServiceFactory::populateServiceTypes: "imagethumbnail.desktop" specifies undefined mimetype/servicetype "image/x-webp"
+kbuildsycoca4(28156) KBuildServiceFactory::populateServiceTypes: "/usr/share/applications/libreoffice-impress.desktop" specifies undefined mimetype/servicetype "application/vnd.ms-powerpoint.presentation.macroEnabled.12"
+kbuildsycoca4(28156) KBuildServiceFactory::populateServiceTypes: "/usr/share/applications/libreoffice-impress.desktop" specifies undefined mimetype/servicetype "application/vnd.ms-powerpoint.template.macroEnabled.12"
+kbuildsycoca4(28156) KBuildServiceFactory::populateServiceTypes: "/usr/share/applications/libreoffice-impress.desktop" specifies undefined mimetype/servicetype "application/vnd.ms-powerpoint.slideshow.macroEnabled.12"
+kbuildsycoca4(28156) KBuildServiceFactory::populateServiceTypes: "/usr/share/applications/org.kde.apper_installer.desktop" specifies undefined mimetype/servicetype "application/x-servicepack"
+kbuildsycoca4(28156) KBuildServiceFactory::populateServiceTypes: "/usr/share/applications/apper_appsetup.desktop" specifies undefined mimetype/servicetype "application/x-ipk"
+kbuildsycoca4(28156) KBuildServiceFactory::populateServiceTypes: "/usr/share/applications/vlc.desktop" specifies undefined mimetype/servicetype "audio/opus"
+kbuildsycoca4(28156) KBuildServiceFactory::populateServiceTypes: "/usr/share/applications/vlc.desktop" specifies undefined mimetype/servicetype "application/x-flac"
+kbuildsycoca4(28156) KBuildServiceFactory::populateServiceTypes: "/usr/share/applications/vlc.desktop" specifies undefined mimetype/servicetype "audio/x-ms-asf"
+kbuildsycoca4(28156) KBuildServiceFactory::populateServiceTypes: "/usr/share/applications/vlc.desktop" specifies undefined mimetype/servicetype "audio/x-ms-wax"
+kbuildsycoca4(28156) KBuildServiceFactory::populateServiceTypes: "/usr/share/applications/vlc.desktop" specifies undefined mimetype/servicetype "video/x-ms-asx"
+kbuildsycoca4(28156) KBuildServiceFactory::populateServiceTypes: "/usr/share/applications/vlc.desktop" specifies undefined mimetype/servicetype "audio/x-pn-windows-acm"
+kbuildsycoca4(28156) KBuildServiceFactory::populateServiceTypes: "/usr/share/applications/vlc.desktop" specifies undefined mimetype/servicetype "audio/x-real-audio"
+kbuildsycoca4(28156) KBuildServiceFactory::populateServiceTypes: "/usr/share/applications/vlc.desktop" specifies undefined mimetype/servicetype "audio/x-realaudio"
+kbuildsycoca4(28156) KBuildServiceFactory::populateServiceTypes: "/usr/share/applications/vlc.desktop" specifies undefined mimetype/servicetype "audio/mpg"
+kbuildsycoca4(28156) KBuildServiceFactory::populateServiceTypes: "/usr/share/applications/vlc.desktop" specifies undefined mimetype/servicetype "audio/mp1"
+kbuildsycoca4(28156) KBuildServiceFactory::populateServiceTypes: "/usr/share/applications/vlc.desktop" specifies undefined mimetype/servicetype "audio/x-mp1"
+kbuildsycoca4(28156) KBuildServiceFactory::populateServiceTypes: "/usr/share/applications/vlc.desktop" specifies undefined mimetype/servicetype "application/mpeg4-iod"
+kbuildsycoca4(28156) KBuildServiceFactory::populateServiceTypes: "/usr/share/applications/vlc.desktop" specifies undefined mimetype/servicetype "application/mpeg4-muxcodetable"
+kbuildsycoca4(28156) KBuildServiceFactory::populateServiceTypes: "/usr/share/applications/vlc.desktop" specifies undefined mimetype/servicetype "application/x-extension-m4a"
+kbuildsycoca4(28156) KBuildServiceFactory::populateServiceTypes: "/usr/share/applications/vlc.desktop" specifies undefined mimetype/servicetype "application/x-extension-mp4"
+kbuildsycoca4(28156) KBuildServiceFactory::populateServiceTypes: "/usr/share/applications/vlc.desktop" specifies undefined mimetype/servicetype "audio/AMR"
+kbuildsycoca4(28156) KBuildServiceFactory::populateServiceTypes: "/usr/share/applications/vlc.desktop" specifies undefined mimetype/servicetype "audio/AMR-WB"
+kbuildsycoca4(28156) KBuildServiceFactory::populateServiceTypes: "/usr/share/applications/vlc.desktop" specifies undefined mimetype/servicetype "audio/dv"
+kbuildsycoca4(28156) KBuildServiceFactory::populateServiceTypes: "/usr/share/applications/vlc.desktop" specifies undefined mimetype/servicetype "audio/x-pn-aiff"
+kbuildsycoca4(28156) KBuildServiceFactory::populateServiceTypes: "/usr/share/applications/vlc.desktop" specifies undefined mimetype/servicetype "video/x-flc"
+kbuildsycoca4(28156) KBuildServiceFactory::populateServiceTypes: "/usr/share/applications/vlc.desktop" specifies undefined mimetype/servicetype "audio/x-pn-au"
+kbuildsycoca4(28156) KBuildServiceFactory::populateServiceTypes: "/usr/share/applications/vlc.desktop" specifies undefined mimetype/servicetype "audio/x-pn-wav"
+kbuildsycoca4(28156) KBuildServiceFactory::populateServiceTypes: "/usr/share/applications/vlc.desktop" specifies undefined mimetype/servicetype "audio/eac3"
+kbuildsycoca4(28156) KBuildServiceFactory::populateServiceTypes: "/usr/share/applications/vlc.desktop" specifies undefined mimetype/servicetype "audio/vnd.dolby.heaac.1"
+kbuildsycoca4(28156) KBuildServiceFactory::populateServiceTypes: "/usr/share/applications/vlc.desktop" specifies undefined mimetype/servicetype "audio/vnd.dolby.heaac.2"
+kbuildsycoca4(28156) KBuildServiceFactory::populateServiceTypes: "/usr/share/applications/vlc.desktop" specifies undefined mimetype/servicetype "audio/vnd.dolby.mlp"
+kbuildsycoca4(28156) KBuildServiceFactory::populateServiceTypes: "/usr/share/applications/vlc.desktop" specifies undefined mimetype/servicetype "misc/ultravox"
+kbuildsycoca4(28156) KBuildServiceFactory::populateServiceTypes: "/usr/share/applications/atril.desktop" specifies undefined mimetype/servicetype "image/*"
+kbuildsycoca4(28156) KBuildServiceFactory::populateServiceTypes: "/usr/share/applications/org.kde.korganizer.desktop" specifies undefined mimetype/servicetype "DBUS/Organizer"
+kbuildsycoca4(28156) KBuildServiceFactory::populateServiceTypes: "/usr/share/applications/vim.desktop" specifies undefined mimetype/servicetype "text/english"
+kbuildsycoca4(28156) KBuildServiceFactory::populateServiceTypes: "/usr/share/applications/vim.desktop" specifies undefined mimetype/servicetype "text/x-c++"
+kbuildsycoca4(28156) KBuildServiceFactory::populateServiceTypes: "phononbackends/gstreamer.desktop" specifies undefined mimetype/servicetype "video/x-quicktime"
+kbuildsycoca4(28156) KBuildServiceFactory::populateServiceTypes: "phononbackends/gstreamer.desktop" specifies undefined mimetype/servicetype "video/mkv"
+kbuildsycoca4(28156) KBuildServiceFactory::populateServiceTypes: "phononbackends/gstreamer.desktop" specifies undefined mimetype/servicetype "audio/aiff"
+kbuildsycoca4(28156) KBuildServiceFactory::populateServiceTypes: "phononbackends/gstreamer.desktop" specifies undefined mimetype/servicetype "audio/x-pn-aiff"
+kbuildsycoca4(28156) KBuildServiceFactory::populateServiceTypes: "phononbackends/gstreamer.desktop" specifies undefined mimetype/servicetype "audio/x-realaudio"
+kbuildsycoca4(28156) KBuildServiceFactory::populateServiceTypes: "phononbackends/gstreamer.desktop" specifies undefined mimetype/servicetype "audio/x-basic"
+kbuildsycoca4(28156) KBuildServiceFactory::populateServiceTypes: "phononbackends/gstreamer.desktop" specifies undefined mimetype/servicetype "audio/x-pn-au"
+kbuildsycoca4(28156) KBuildServiceFactory::populateServiceTypes: "phononbackends/gstreamer.desktop" specifies undefined mimetype/servicetype "audio/x-8svx"
+kbuildsycoca4(28156) KBuildServiceFactory::populateServiceTypes: "phononbackends/gstreamer.desktop" specifies undefined mimetype/servicetype "audio/8svx"
+kbuildsycoca4(28156) KBuildServiceFactory::populateServiceTypes: "phononbackends/gstreamer.desktop" specifies undefined mimetype/servicetype "audio/x-16sv"
+kbuildsycoca4(28156) KBuildServiceFactory::populateServiceTypes: "phononbackends/gstreamer.desktop" specifies undefined mimetype/servicetype "audio/168sv"
+kbuildsycoca4(28156) KBuildServiceFactory::populateServiceTypes: "phononbackends/gstreamer.desktop" specifies undefined mimetype/servicetype "image/ilbm"
+kbuildsycoca4(28156) KBuildServiceFactory::populateServiceTypes: "phononbackends/gstreamer.desktop" specifies undefined mimetype/servicetype "video/anim"
+kbuildsycoca4(28156) KBuildServiceFactory::populateServiceTypes: "phononbackends/gstreamer.desktop" specifies undefined mimetype/servicetype "image/x-png"
+kbuildsycoca4(28156) KBuildServiceFactory::populateServiceTypes: "phononbackends/gstreamer.desktop" specifies undefined mimetype/servicetype "video/mng"
+kbuildsycoca4(28156) KBuildServiceFactory::populateServiceTypes: "phononbackends/gstreamer.desktop" specifies undefined mimetype/servicetype "audio/x-real-audio"
+kbuildsycoca4(28156) KBuildServiceFactory::populateServiceTypes: "phononbackends/gstreamer.desktop" specifies undefined mimetype/servicetype "audio/x-pn-wav"
+kbuildsycoca4(28156) KBuildServiceFactory::populateServiceTypes: "phononbackends/gstreamer.desktop" specifies undefined mimetype/servicetype "audio/x-pn-windows-acm"
+kbuildsycoca4(28156) KBuildServiceFactory::populateServiceTypes: "phononbackends/gstreamer.desktop" specifies undefined mimetype/servicetype "audio/mpeg2"
+kbuildsycoca4(28156) KBuildServiceFactory::populateServiceTypes: "phononbackends/gstreamer.desktop" specifies undefined mimetype/servicetype "audio/x-mpeg2"
+kbuildsycoca4(28156) KBuildServiceFactory::populateServiceTypes: "phononbackends/gstreamer.desktop" specifies undefined mimetype/servicetype "audio/mpeg3"
+kbuildsycoca4(28156) KBuildServiceFactory::populateServiceTypes: "phononbackends/gstreamer.desktop" specifies undefined mimetype/servicetype "audio/x-mpeg3"
+kbuildsycoca4(28156) KBuildServiceFactory::populateServiceTypes: "/usr/share/applications/mpv.desktop" specifies undefined mimetype/servicetype "application/x-smil"
+kbuildsycoca4(28156) KBuildServiceFactory::populateServiceTypes: "/usr/share/applications/mpv.desktop" specifies undefined mimetype/servicetype "application/streamingmedia"
+kbuildsycoca4(28156) KBuildServiceFactory::populateServiceTypes: "/usr/share/applications/mpv.desktop" specifies undefined mimetype/servicetype "application/x-streamingmedia"
+kbuildsycoca4(28156) KBuildServiceFactory::populateServiceTypes: "/usr/share/applications/mpv.desktop" specifies undefined mimetype/servicetype "audio/mp1"
+kbuildsycoca4(28156) KBuildServiceFactory::populateServiceTypes: "/usr/share/applications/mpv.desktop" specifies undefined mimetype/servicetype "audio/x-mp1"
+kbuildsycoca4(28156) KBuildServiceFactory::populateServiceTypes: "/usr/share/applications/mpv.desktop" specifies undefined mimetype/servicetype "audio/mpg"
+kbuildsycoca4(28156) KBuildServiceFactory::populateServiceTypes: "/usr/share/applications/mpv.desktop" specifies undefined mimetype/servicetype "audio/rn-mpeg"
+kbuildsycoca4(28156) KBuildServiceFactory::populateServiceTypes: "/usr/share/applications/mpv.desktop" specifies undefined mimetype/servicetype "audio/x-pn-windows-pcm"
+kbuildsycoca4(28156) KBuildServiceFactory::populateServiceTypes: "/usr/share/applications/mpv.desktop" specifies undefined mimetype/servicetype "audio/x-realaudio"
+kbuildsycoca4(28156) KBuildServiceFactory::populateServiceTypes: "/usr/share/applications/mpv.desktop" specifies undefined mimetype/servicetype "audio/x-pls"
+kbuildsycoca4(28156) KBuildServiceFactory::populateServiceTypes: "/usr/share/applications/mpv.desktop" specifies undefined mimetype/servicetype "video/x-ms-afs"
+kbuildsycoca4(28156) KBuildServiceFactory::populateServiceTypes: "/usr/share/applications/mpv.desktop" specifies undefined mimetype/servicetype "video/x-ms-wvxvideo"
+kbuildsycoca4(28156) KBuildServiceFactory::populateServiceTypes: "/usr/share/applications/mpv.desktop" specifies undefined mimetype/servicetype "audio/AMR"
+kbuildsycoca4(28156) KBuildServiceFactory::populateServiceTypes: "/usr/share/applications/gphpedit.desktop" specifies undefined mimetype/servicetype "text/x-javascript"
+kbuildsycoca4(28156) KBuildServiceFactory::populateServiceTypes: "/usr/share/applications/gphpedit.desktop" specifies undefined mimetype/servicetype "text/x-perl"
+kbuildsycoca4(28156) KBuildServiceFactory::populateServiceTypes: "/usr/share/applications/gphpedit.desktop" specifies undefined mimetype/servicetype "text/x-php"
+kbuildsycoca4(28156) KBuildServiceFactory::populateServiceTypes: "/usr/share/applications/gphpedit.desktop" specifies undefined mimetype/servicetype "application/x-cgi"
+kbuildsycoca4(28156) KBuildServiceFactory::populateServiceTypes: "/usr/share/applications/gphpedit.desktop" specifies undefined mimetype/servicetype "application/x-python"
+kbuildsycoca4(28156) KMimeAssociations::parseAllMimeAppsList: Parsing "/home/thomas/.local/share/applications/mimeapps.list"
+kbuildsycoca4(28156) KMimeAssociations::parseAddedAssociations: "/home/thomas/.local/share/applications/mimeapps.list" specifies unknown service "kde4-showfoto.desktop" in "Added Associations"
+kbuildsycoca4(28156) KBuildSycoca::save: Saving
+kbuildsycoca4(28156) kdemain: Emitting notifyDatabaseChanged ("xdgdata-mime", "apps", "apps")
+QDBusConnection: session D-Bus connection created before QCoreApplication. Application may misbehave.
+QDBusConnection: session D-Bus connection created before QCoreApplication. Application may misbehave.
+VERSION (gluon): v2017.1.x
+VERSION (site): v2017.1.x
+BRANCH: stable
+~/gluon ~/git/ff-rhb/v2017.1.x
+Klone nach 'v2017.1.x' ...
+~/git/ff-rhb/v2017.1.x
+patching file /home/thomas/gluon/v2017.1.x/package/gluon-wan-dnsmasq/files/etc/hotplug.d/iface/50-gluon-wan-dnsmasq
+patching file /home/thomas/gluon/v2017.1.x/package/gluon-wan-dnsmasq/luasrc/lib/gluon/wan-dnsmasq/update.lua
+~/gluon/v2017.1.x ~/git/ff-rhb/v2017.1.x
+Klone nach 'site' ...
+rm: das Entfernen von '/tmp/v2017.1.x-mkffimage*.log' ist nicht möglich: Datei oder Verzeichnis nicht gefunden
+make[1]: Entering directory '/home/thomas/gluon/v2017.1.x/lede'
+make[2]: Entering directory '/home/thomas/gluon/v2017.1.x/lede'
+make[3]: Entering directory '/home/thomas/gluon/v2017.1.x/lede'
+make[3]: Leaving directory '/home/thomas/gluon/v2017.1.x/lede'
+make[3]: Entering directory '/home/thomas/gluon/v2017.1.x/lede'
+make[3]: Leaving directory '/home/thomas/gluon/v2017.1.x/lede'
+make[2]: Leaving directory '/home/thomas/gluon/v2017.1.x/lede'
+ make[2] tools/install
+ make[3] -C tools/flock compile
+ make[3] -C tools/flock install
+ make[3] -C tools/sed compile
+ make[3] -C tools/sed install
+ make[3] -C tools/patch compile
+ make[3] -C tools/patch install
+ make[3] -C tools/xz compile
+ make[3] -C tools/xz install
+ make[3] -C tools/tar compile
