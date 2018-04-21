@@ -20,7 +20,6 @@ gluon-ebtables-segment-mld \
 gluon-ebtables-source-filter \
 gluon-mesh-vpn-core \
 gluon-mesh-vpn-fastd \
-gluon-mesh-vpn-tunneldigger \
 gluon-neighbour-info \
 gluon-radvd \
 gluon-respondd \
@@ -62,7 +61,9 @@ USB_PACKAGES_UMTS := \
 	kmod-usb-serial-option \
 	kmod-usb-serial-wwan \
 	ppp \
-	ppp-mod-pppoe
+	ppp-mod-pppoe \
+	-gluon-wan-dnsmasq \
+	gluon-wan-dnsmasq-usb
 	
 # storage support for USB devices
 USB_PACKAGES_STORAGE := \
