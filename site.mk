@@ -62,8 +62,6 @@ USB_PACKAGES_UMTS := \
 	kmod-usb-serial-wwan \
 	ppp \
 	ppp-mod-pppoe \
-	-gluon-wan-dnsmasq \
-	gluon-wan-dnsmasq-usb
 	
 # storage support for USB devices
 USB_PACKAGES_STORAGE := \
